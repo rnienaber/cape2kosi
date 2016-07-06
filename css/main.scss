@@ -1,0 +1,644 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
+
+
+
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+
+#box {
+  background: #fff none repeat scroll 0 0;
+  margin: 20px auto;
+  padding: 10px;
+  width: 800px;
+}
+
+#top {
+  background: #69c url("images/topbck.gif") repeat scroll 0 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  width: 800px;
+}
+
+#splash {
+  background: rgba(0, 0, 0, 0) url("http://images.cape2kosi.com/site/header-01.jpg") no-repeat scroll 0 0;
+  height: 140px;
+  margin: 0;
+  padding: 0;
+  width: 800px;
+}
+
+#splash a {
+  color: #fff;
+  padding-left: 108px;
+}
+
+#header_info {
+  color: #fff;
+  font-size: 20px;
+  margin: 10px;
+  padding-top: 5px;
+}
+
+#header_info_small {
+  font-size: 11px;
+  margin: 10px;
+  padding-left: 100px;
+  padding-top: 5px;
+}
+
+#header {
+  float: left;
+  margin: 0 0 0 10px;
+  padding: 0;
+  width: 300px;
+}
+
+#header h1 {
+  margin: 0;
+  padding: 0;
+  text-indent: -10000px;
+}
+
+#header h1 a {
+  display: block;
+  height: 51px;
+}
+
+#desc {
+  color: #fff;
+  float: left;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 0 10px;
+  text-align: right;
+}
+
+#desc a {
+  color: #fff;
+}
+
+#main {
+  background: #f3f2ed none repeat scroll 0 0;
+  height: 30px;
+  margin: 10px auto;
+}
+
+#mainbck {
+  background: #fff url("images/mainbck.gif") repeat-y scroll 0 0;
+  margin: 5px auto;
+  padding: 0;
+  width: 800px;
+}
+
+#nav {
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  padding: 0;
+}
+
+ul.nav {
+  float: left;
+  font-size: 12px;
+  font-weight: 700;
+  height: 30px;
+  line-height: 30px;
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+ul.nav li {
+  float: left !important;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.nav li a, ul.nav li a:link, ul.nav li a:visited {
+  background: #f3f2ed none repeat scroll 0 0;
+  border-bottom: 0 none;
+  border-left: 0 none;
+  color: #069;
+  display: block;
+  float: left;
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+  background: #fff none repeat scroll 0 0;
+  color: #555;
+  text-decoration: none;
+}
+
+ul.nav li.home a {
+  border-left: 2px solid #fff;
+  text-decoration: none;
+}
+
+ul.nav li.current_page_item a {
+  background: #fff none repeat scroll 0 0;
+  color: #555;
+  text-decoration: none;
+}
+
+ul.nav li ul {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  float: left;
+  margin: 5px auto;
+  padding: 0 15px 0 0;
+  width: 540px;
+}
+
+.entry {
+  background: #fff none repeat scroll 0 0;
+  border-bottom: 1px solid #ccc;
+  color: #666;
+  float: left;
+  margin: 5px auto;
+  padding: 5px;
+  text-align: justify;
+  width: 530px;
+}
+
+.entry h2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.entry h3 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+#sidebar {
+  float: right;
+  margin: 5px;
+  padding: 0;
+  width: 230px;
+}
+
+.rsidebar {
+  color: #666;
+  margin: 0 auto;
+  padding: 0 5px;
+  width: 210px;
+}
+
+.rsidebar h2 {
+  border-bottom: 1px solid #ccc;
+  font-size: 14px;
+  margin: 0 7px 3px;
+  padding: 3px 0;
+}
+
+.rsidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rsidebar ul li {
+  list-style-type: none;
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.rsidebar ul li ul {
+  list-style-type: square;
+  margin: 0;
+  padding: 0 3px;
+}
+
+.rsidebar ul li ul li {
+  background: transparent url("images/b.gif") no-repeat scroll 0 4px;
+  border: 0 none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 2px 14px;
+}
+
+#footer {
+  background-color: #69c;
+  clear: both;
+  color: #fff;
+  height: 30px;
+  line-height: 30px;
+  margin: 0;
+  padding: 0 0 0 10px;
+  text-align: center;
+  width: 790px;
+}
+
+a:visited {
+  border: medium none;
+  color: #069;
+  text-decoration: none;
+}
+
+a:hover {
+  border: medium none;
+  color: #69c;
+  text-decoration: underline;
+}
+
+#wp-calendar #prev a, #wp-calendar #next a {
+  font-size: 9pt;
+}
+
+#wp-calendar a {
+  display: block;
+  text-decoration: none;
+}
+
+#wp-calendar caption {
+  font: bold 1.3em "Lucida Grande", Verdana, Arial, sans-serif;
+  text-align: left;
+  width: 100%;
+}
+
+#wp-calendar th {
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+#wp-calendar {
+  empty-cells: show;
+  margin: 10px auto 0;
+  width: 100%;
+}
+
+#wp-calendar #next a {
+  padding-right: 10px;
+  text-align: right;
+}
+
+#wp-calendar #prev a {
+  padding-left: 10px;
+  text-align: left;
+}
+
+#wp-calendar td {
+  padding: 3px 0;
+  text-align: center;
+}
+
+#wp-calendar td.pad:hover {
+  background-color: #fff;
+}
+
+a:link, a:active {
+  border: medium none;
+  color: #14568a;
+  text-decoration: none;
+}
+
+.navigation {
+  color: #666;
+  float: left;
+  width: 520px;
+}
+
+.alignright {
+  float: right;
+  margin-top: 10px;
+}
+
+.alignleft {
+  float: left;
+  margin-top: 10px;
+}
+
+.space {
+  background: #fff none repeat scroll 0 0;
+  clear: both;
+  height: 5px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+#searchform {
+  float: left;
+  height: 26px;
+  line-height: 26px;
+  margin: 0;
+  padding: 0 0 10px;
+}
+
+input#s {
+  background: #fcfcfc none repeat scroll 0 0;
+  border: 1px solid #cbcbcb;
+  color: #5188d2;
+  width: 140px;
+}
+
+input#searchsubmit {
+  background: #4879aa none repeat scroll 0 0;
+  border: 1px solid #2f5c89;
+  color: #fff;
+  font-size: 13px;
+}
+
+.bobcomments {
+  background: #fbfbf9 none repeat scroll 0 0;
+  border-bottom: 1px solid #006394;
+  border-top: 5px solid #006394;
+  margin-bottom: 20px;
+}
+
+#commentform {
+  border-bottom: 1px dotted #cedeef;
+  border-top: 1px dotted #cedeef;
+  margin: 0;
+  padding: 15px 15px 1px;
+}
+
+#commentform label {
+  display: block;
+  margin: 0;
+}
+
+#commentform input {
+  margin: 0 5px 10px 0;
+  padding: 1px;
+  width: 170px;
+}
+
+#commentform textarea {
+  margin: 0 0 10px;
+  padding: 0;
+  width: 380px;
+}
+
+#commentform #submit {
+  margin: 0 0 20px;
+}
+
+#commentform p {
+  margin: 5px 0;
+}
+
+ol.commentlist {
+  margin: 0 0 1px;
+  padding: 0;
+}
+
+ol.commentlist li {
+  border-top: 1px solid #cedeef;
+  display: block;
+  list-style: outside none none;
+  margin: 0;
+  padding: 5px 15px 1px;
+}
+
+ol.commentlist li.commenthead {
+  display: block;
+  list-style: outside none none;
+  margin: 0;
+  padding: 5px 15px;
+}
+
+ol.commentlist li.commenthead h3 {
+  margin: 0;
+}
+
+ol.commentlist li.mycomment {
+  background-color: #ebf3fa;
+}
+
+ol.bob {
+  border-top: 1px solid #cedeef;
+  list-style: outside none none;
+  margin: 0 0 1px;
+  padding: 15px;
+}
+
+ol.bob li {
+  background: transparent url("images/hb.gif") no-repeat scroll 0 2px;
+  display: block;
+  list-style: outside none none;
+  margin: 0 0 5px;
+  padding-left: 15px;
+}
+
+#footer a:visited {
+  border: medium none;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  border: medium none;
+  color: #fff;
+  text-decoration: underline;
+}
+
+#footer a:link, #footer a:active {
+  border: medium none;
+  color: #fff;
+  text-decoration: none;
+}
+
+.photo_side {
+  border: thin solid #fff;
+  margin: 4px;
+}
+
+.photo_main_left {
+  float: left;
+  padding-right: 10px;
+}
+
+.photo_main_right {
+  float: right;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.calendar_month {
+  float: left;
+  padding-bottom: 20px;
+  padding-right: 30px;
+}
+
+.entry_highlight {
+  background: #ebf3fa none repeat scroll 0 0;
+  border: 1px solid #cccccc;
+  padding: 10px;
+}
+
+blockquote {
+  border: 1px solid #cccccc;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.diary_day {
+  border: 1px solid #cccccc;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+#diary_preparation {
+  border-bottom: 1px solid #cccccc;
+  padding-top: 10px;
+}
+
+ul#diary_navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0.5em 0;
+}
+
+ul#diary_navigation li a {
+  display: block;
+  width: 6em;
+}
+
+ul#diary_navigation .left {
+  float: left;
+}
+
+ul#diary_navigation .right {
+  float: right;
+}
+
+.diary_day_next {
+  float: right;
+}
+
+.diary_day_previous {
+  float: left;
+}
+
+#diary_gallery {
+}
+
+#diary_gallery_info {
+  float: left;
+}
+
+#diary_photo {
+  float: left;
+}
+
+.diary_th {
+  background: #ebf3fa none repeat scroll 0 0;
+  border: 1px solid #cccccc;
+  float: left;
+  margin-bottom: 15px;
+  padding: 10px;
+  width: 150px;
+}
+
+.diary_th_summary {
+  margin-left: 180px;
+  padding-top: 10px;
+}
+
+.diary_th_item {
+}
+
+img {
+  border: 0 none;
+}
+
+.post_image {
+  text-align: center;
+}
+
+#table_results {
+  border: 1px solid #cccccc;
+}
+
+#table_results td {
+  padding: 2px;
+}
+
+#table_results .odd {
+  background-color: #f2f2f2;
+}
+
+.hiking_info_image {
+  float: left;
+}
+
+.hiking_info_detail {
+  float: left;
+  padding-left: 10px;
+}
+
+.clear_bottom {
+  border-bottom: 1px dashed #cccccc;
+  clear: both;
+}
+
