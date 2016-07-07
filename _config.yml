@@ -18,3 +18,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+maps_api_key: AIzaSyAm9YyAuTKP_n5Tc1LIYvVW2NWSCHpRHlY
