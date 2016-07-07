@@ -1,0 +1,83 @@
+---
+layout: default
+permalink: /diary-and-map/
+---
+
+<div class="entry">
+    <h2>Diary (day based)</h2>
+
+    <p>The hikers have set off on their journey. Each day they send some photos and a short description of the day through to the site.</p>
+    <p><a href="/map/">Click here to see this diary on the interactive map</a>.</p>
+    <table id="table_results" class="data" width="60%" align="center">
+        <tr>
+            <td colspan=2><strong>Shortcut to each month</strong></td>
+        </tr>
+        <tr>
+            <td><a href="#january">January</a></td>
+            <td><a href="#may">May</a></td>
+        </tr>
+        <tr>
+            <td><a href="#february">February</a></td>
+            <td><a href="#june">June</a> </td>
+        </tr>
+        <tr>
+            <td><a href="#march">March</a></td>
+            <td><a href="#july">July</a> </td>
+        </tr>
+        <tr>
+            <td><a href="#april">April</a></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <h3><a name="january">January</a></h3>
+    <table id="table_results" class="data" width="100%">
+        <tbody>
+
+            {% for post in site.posts reversed %}
+
+                {% assign i = forloop.index | modulo: 4%}
+                {% if i == 1 %}
+                <tr>
+                {% endif %}
+
+                    <td valign='top' style='border: 1px solid #dedede;padding-left:5px;'>
+                        <table>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tr>
+                                            <td colspan=2><a href='{{ post.link }}'>{{ post.hike_date }}</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>{{ post.km }} km</td>
+                                            <td><a href='{{ post.link }}'></a></td>
+                                        </tr>
+                                        <tr>
+                                            <td align='left' colspan=2>{{ post.destination }}</td>
+                                        </tr>
+                                    </table>
+                                <td></tr>
+                            <tr>
+                                <td align='center'>
+                                    <a href='{{ post.link }}'>
+                                        <img width='100px' height='75px' alt='{{ post.description }}' src='http://images.cape2kosi.com/hiking_photos/small/{{ post.file_name }}'/>
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                {% if i == 0 or forloop.last%}
+                </tr>
+                {% endif %}
+
+            {% endfor %}
+
+        </tbody>
+    </table>
+
+
+
+
+
+</div>
