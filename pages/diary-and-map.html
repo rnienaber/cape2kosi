@@ -25,11 +25,11 @@ permalink: /diary-and-map/
                                 <td>
                                     <table>
                                         <tr>
-                                            <td colspan=2><a href='{{ post.link }}'>{{ post.hike_date }}</a></td>
+                                            <td colspan=2><a href='{{ post.url }}'>{{ post.hike_date }}</a></td>
                                         </tr>
                                         <tr>
                                             <td>{{ post.km }} km</td>
-                                            <td><a href='{{ post.link }}'></a></td>
+                                            <td><a href='{{ post.url }}'></a></td>
                                         </tr>
                                         <tr>
                                             <td align='left' colspan=2>{{ post.destination }}</td>
@@ -38,7 +38,7 @@ permalink: /diary-and-map/
                                 <td></tr>
                             <tr>
                                 <td align='center'>
-                                    <a href='{{ post.link }}'>
+                                    <a href='{{ post.url }}'>
                                         <img width='100px' height='75px' alt='{{ post.description }}' src='http://images.cape2kosi.com/hiking_photos/small/{{ post.file_name }}'/>
                                     </a>
                                 </td>

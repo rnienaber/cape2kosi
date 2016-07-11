@@ -1,15 +1,71 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+<div class="entry">
+    <div class="post">
+        <h2>{{ page.title }}</h2>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
 
-</article>
+        <div class="diary_day">
+            <table width="100%">
+                <tbody>
+                <tr>
+                    <td><strong>Hike Date</strong></td>
+                    <td>{{ page.hike_date }}</td>
+                    <td width="100px" rowspan="8">
+                        <table>
+                            <tbody><tr>
+                                <td>Next Day</td>
+                            </tr>
+                            <tr>
+                                <td><a href="{{ page.next.url }}">{{ page.next.hike_date }}</a></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>Previous Day</td>
+                            </tr>
+                            <tr>
+                                <td><a href="{{ page.previous.url }}">{{ page.previous.hike_date }}</a></td>
+                            </tr>
+                            </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>Distance</strong></td>
+                    <td>{{ page.km }} km</td>
+                </tr>
+                <tr>
+                    <td><strong>Day Number</strong></td>
+                    <td>{{ page.day_number }}</td>
+                </tr>
+                <tr>
+                    <td><strong>Map Number</strong></td>
+                    <td>{{ page.map_number }}</td>
+                </tr>
+                <tr>
+                    <td><strong>Destination</strong></td>
+                    <td>{{ page.destination }}</td>
+                </tr>
+                <tr>
+                    <td><strong>Overnight</strong></td>
+                    <td>{{ page.overnight }}</td>
+                </tr>
+                <tr>
+                    <td><strong>Terrain</strong></td>
+                    <td>{{ page.terrain }}</td>
+                </tr>
+                <tr>
+                    <td><strong>Nature Reserve</strong></td>
+                    <td>{{ page.nature_reserve }}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <p>{{ page.content }}</p>
+
+    </div>
+</div>
