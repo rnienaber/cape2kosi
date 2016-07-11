@@ -4,30 +4,17 @@ permalink: /contact-us/
 ---
 
 <div class="entry">
-<div class="post" id="post-3">
-    <h2>Contact Us</h2>
+    <div class="post" id="post-3">
+        <h2>Contact Us</h2>
 
-    <p>Leave a message in the comment box below or you can get in touch with us via email.</p>
+        <p>Leave a message in the comment box below or you can get in touch with us via email.</p>
 
-    <p><strong>Alan:</strong> alan @ cape2kosi.com</p>
-    <p><strong>Chummy:</strong> chummy @ cape2kosi.com</p>
-    <p><strong>Anything website related:</strong> info @ cape2kosi.com</p>
+        <p><strong>Alan:</strong> alan @ cape2kosi.com</p>
+        <p><strong>Chummy:</strong> chummy @ cape2kosi.com</p>
+        <p><strong>Anything website related:</strong> info @ cape2kosi.com</p>
 
-</div>
+    </div>
 
-<div class="bobcomments">
-    <ol class="commentlist">
-    {% assign comments = site.data.comments.contact-us %}
-
-        <li class="commenthead"><h3 id="comments">{{ comments.size }} Responses</h3></li>
-
-        {% for comment in comments %}
-            <li>
-                <p style="margin-bottom:5px;">By <strong>{{ comment.author }}</strong> on {{ comment.datetime }}</p>
-                <p>{{ comment.comment }}</p>
-            </li>
-        {% endfor %}
-    </ol>
-</div>
+    {% include comments.html %}
 
 </div>

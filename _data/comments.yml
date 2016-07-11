@@ -1,76 +1,238 @@
 contact-us:
-  - author: Rose Hallendorff
+  - author:  Rose Hallendorff
     datetime: Jan 28, 2009
-    comment: "Hi, there is a website called ‘backabuddy’ which encourages folks to give to their friends and aquaintances who are doing things for charity. Please see if you can register Alan and Chummy on this site, the money then gets straight into the account of the charity."
+    comment:
+    - "Hi, there is a website called ‘backabuddy’ which encourages folks to give to their friends and aquaintances who are doing things for charity. Please see if you can register Alan and Chummy on this site, the money then gets straight into the account of the charity."
 
-  - author: Rachel
+  - author:  Rachel
     datetime: Jan 28, 2009
-    comment: "Hi Rose. Thanks for the suggestion! I’ll get hold of the hikers and look into it."
+    comment:
+    - "Hi Rose. Thanks for the suggestion! I’ll get hold of the hikers and look into it."
 
-  - author: andre(ideal lighting)
+  - author:  andre(ideal lighting)
     datetime: Feb 6, 2009
-    comment: "hoop dit gaan goed en julle geniet dit. live your dream. andre"
+    comment:
+    - "hoop dit gaan goed en julle geniet dit"
+    - "live your dream"
+    - "andre"
 
-  - author: Karl Lambrecht & Grant Leaity
+  - author:  Karl Lambrecht & Grant Leaity
     datetime: Feb 17, 2009
-    comment: "Grant is out from Columbia staying with us at the moment and we’ve just been checking up on your progress. We are very impressed! Great excuse to get off work for 6 months! We’re keen to give you a call if you can e-mail us a cell number. Pity we missed you guys in CT. Take it easy. Cheers Grant and Karl"
+    comment:
+    - "Grant is out from Columbia staying with us at the moment and we’ve just been checking up on your progress. We are very impressed! Great excuse to get off work for 6 months! We’re keen to give you a call if you can e-mail us a cell number. Pity we missed you guys in CT. Take it easy. Cheers Grant and Karl"
 
-  - author: Russell
+  - author:  Russell
     datetime: Feb 26, 2009
-    comment: "Found any oranges in your bag yet Alan ? Watching your progress with great interest."
+    comment:
+    - "Found any oranges in your bag yet Alan ? Watching your progress with great interest."
 
-  - author: Bev Isted
+  - author:  Bev Isted
     datetime: Mar 15, 2009
-    comment: "Hullo Chummy (and Allan). Wendy gave me your site address and I have just been looking at it - well done on the achievements so far! Can’t believe how far you have walked already! Look forward to seeing you again Chummy and hearing all about the adventure. Keep it up and good luck for the rest of the journey - enjoy! Best wishes, Bev Isted (Wendy’s sister)"
+    comment:
+    - "Hullo Chummy (and Allan)"
+    - "Wendy gave me your site address and I have just been looking at it - well done on the achievements so far! Can’t believe how far you have walked already! Look forward to seeing you again Chummy and hearing all about the adventure. Keep it up and good luck for the rest of the journey - enjoy!"
+    - "Best wishes"
+    - "Bev Isted (Wendy’s sister)"
 
-  - author: Sally & Warren
+  - author:  Sally & Warren
     datetime: Mar 20, 2009
-    comment: "Thank you for the beatifully laundered table napkin returned by post Can we send u the other 5 to get them so clean !! We are in Australia on holiday for 3 months but will cont. to follow your progress on the website Best of luck and God bless Sally & Warren"
+    comment:
+    - "Thank you for the beatifully laundered table napkin returned by post Can we send u the other 5 to get them so clean !! We are in Australia on holiday for 3 months but will cont. to follow your progress on the website Best of luck and God bless Sally & Warren"
 
-  - author: Tammy
+  - author:  Tammy
     datetime: Mar 24, 2009
-    comment: "Hi, Hope you’re still going well and strong. Also wanted to know if you had a place to stay at Cannon Rock as I have some missionary friends who are happy to have you to stay if you need. Let me know, Tammy"
+    comment:
+    - "Hi,"
+    - ""
+    - "Hope you’re still going well and strong."
+    - "Also wanted to know if you had a place to stay at Cannon Rock as I have some missionary friends who are happy to have you to stay if you need."
+    - ""
+    - "Let me know,"
+    - ""
+    - "Tammy"
 
-  - author: Jo Webb
+  - author:  Jo Webb
     datetime: Mar 26, 2009
-    comment: "Hi Chummy (and Allan). What an amazing experience! Well done fellas. Now I have found your website, we will be following it with major interest. The kids are fascinated that the “chummy” they know is on the computer. Best of luck for the rest of your adventure.All our love. The Webbs"
+    comment:
+    - "Hi Chummy (and Allan)"
+    - "What an amazing experience! Well done fellas. Now I have found your website, we will be following it with major interest. The kids are fascinated that the “chummy” they know is on the computer. Best of luck for the rest of your adventure.All our love. The Webbs"
 
-  - author: Carolyn Reynolds
+  - author:  Carolyn Reynolds
     datetime: Apr 16, 2009
-    comment: "Hi guys, you have done soooo well, thinking of you. Glad you haven’t reached Natal yet as Steve is slave driving me as his PA and I can’t get anywhere with advertising you. Next week, I will whip up a frenzy of interest (fingers crossed) at Mens Health magazine, perhaps some other mags, East Coast Radio, Morning Live TV, Highway Mail, Independent Newspapers about your site and your story and Phakamisa, hopefully when close to civilisation e.g. Durban!!!! reporters will start driving to you, especially for Phakas. Any other media I left out? Love Calxxxx"
+    comment:
+    - "Hi guys, you have done soooo well, thinking of you. Glad you haven’t reached Natal yet as Steve is slave driving me as his PA and I can’t get anywhere with advertising you. Next week, I will whip up a frenzy of interest (fingers crossed) at Mens Health magazine, perhaps some other mags, East Coast Radio, Morning Live TV, Highway Mail, Independent Newspapers about your site and your story and Phakamisa, hopefully when close to civilisation e.g. Durban!!!! reporters will start driving to you, especially for Phakas. Any other media I left out? Love Calxxxx"
 
-  - author: Jennifer Sugden
+  - author:  Jennifer Sugden
     datetime: Apr 21, 2009
-    comment: "Hi Alan and Chummy! Watching your progress with great interest. You are both fulfilling a dream of doing something special and positive for our underprivileged people, most of us only dream about and do nothing about! Well done and may you get all the support you deserve!"
+    comment:
+    - "Hi Alan and Chummy! Watching your progress with great interest. You are both fulfilling a dream of doing something special and positive for our underprivileged people, most of us only dream about and do nothing about! Well done and may you get all the support you deserve!"
 
-  - author: Yzelle Kotze
+  - author:  Yzelle Kotze
     datetime: Apr 22, 2009
-    comment: "Hey you guys! I’m still watching, according to Jaco the Wild Coast is the most beautiful place on earth! All the best and good luck with the tough terrain and swims ahead! Yzelle"
+    comment:
+    - "Hey you guys!"
+    - ""
+    - "I’m still watching, according to Jaco the Wild Coast is the most beautiful place on earth! All the best and good luck with the tough terrain and swims ahead!"
+    - ""
+    - "Yzelle"
 
-  - author: Willie
+  - author:  Willie
     datetime: Apr 24, 2009
-    comment: "Well done so far! I will be at the finish. Tell Jaco he can also book in with us in Kosi if he gets up here."
+    comment:
+    - "Well done so far! I will be at the finish. Tell Jaco he can also book in with us in Kosi if he gets up here."
+    - ""
+    - "Willie"
+    - "http://www.maputaland.net"
+    - "mail at. maputaland.net"
 
-  - author: Robert from Germany
+  - author:  Robert from Germany
     datetime: May 13, 2009
-    comment: "Hi Alan and Chummy. How has it going ? Thank you for the funny and interesting evening at the sinclair hut in Februar 09.You gave me a lot of ideas for hiking tours in the future.I still have a lot of hiking storys from you in my head and i learnt more about the southafrican culture. Take care and i wish you still a nice trip. See you. Robert from Germany. p.s. you remember the chocolate and tomatos guy"
+    comment:
+    - "Hi Alan and Chummy,"
+    - ""
+    - "how has it going ? Thank you for the funny and interesting evening at the sinclair hut in Februar 09.You gave me a lot of ideas for"
+    - "hiking tours in the future.I still have a lot of hiking storys from you in my head and i learnt more about the southafrican culture."
+    - ""
+    - "Take care and i wish you still a nice trip."
+    - ""
+    - "See you"
+    - ""
+    - "Robert from Germany"
+    - ""
+    - "p.s. you remember the chocolate and tomatos guy"
 
-  - author: John
+  - author:  John
     datetime: May 15, 2009
-    comment: "Hi Chummy and Alan. Hope you’re still going strong. Keith and Carol are friends of ours and put me onto your Mission/Journey. Best of luck for the rest of your adventure. God Bless you both. Regards, John"
+    comment:
+    - "Hi Chummy and Alan"
+    - "Hope you’re still going strong."
+    - "Keith and Carol are friends of ours and put me onto your Mission/Journey."
+    - "Best of luck for the rest of your adventure."
+    - "God Bless you both"
+    - "Regards"
+    - "John"
 
-  - author: Carolyn Reynolds
+  - author:  Carolyn Reynolds
     datetime: May 18, 2009
-    comment: "Hi guys, hope you’re not overdoing it, well of course you are but what can I do? Have notified East Coast radio of you and Sunday Tribune, Highway, Men’s health so keep your phone on in case they wish to follow your story. Think I’ll contact Morning Live too why not? You are doing an amazing thing and looking forward to seeing you next week! Love Cal"
+    comment:
+    - "Hi guys, hope you’re not overdoing it, well of course you are but what can I do? Have notified East Coast radio of you and Sunday Tribune, Highway, Men’s health so keep your phone on in case they wish to follow your story. Think I’ll contact Morning Live too why not? You are doing an amazing thing and looking forward to seeing you next week! Love Cal"
 
-  - author: Tiana van Harmelen
+  - author:  Tiana van Harmelen
     datetime: May 18, 2009
-    comment: "Hi! We spotted the 2 of you today as we were holiday-ing at Shelley Beach. My husband greeted you. Great to have seen your friendliness and enthusiasm. Sadly we only saw “who you were” once you had passed us! All God’s blessings with your hike!"
+    comment:
+    - "Hi!"
+    - "We spotted the 2 of you today as we were holiday-ing at Shelley Beach. My husband greeted you. Great to have seen your friendliness and enthusiasm. Sadly we only saw “who you were” once you had passed us!"
+    - "All God’s blessings with your hike!"
+
+  - author:  Lynn Forbes
+    datetime: May 31, 2009
+    comment:
+    - "Dear Chummy and Alan. I’ve been watching your progress with such interest - you’re both doing so well - God bless you both as you continue. Take good care. love from all the Forbesies in Jo’burg."
+
+  - author:  Trevor Jones
+    datetime: Jun 23, 2009
+    comment:
+    - "Well done"
+    - "Found your site just now"
+    - "Hope to see you all soon"
+    - "All the best"
+    - "Trevor and Merelehelen"
+
+
+the-hikers-alan-and-chummy:
+  - author: Amanda van der Westhuizen
+    datetime: Jan 29, 2009
+    comment:
+      - "Dear Alan, Brenda has sent me the details. Well done you two!! Wish I could join you, Gauteng gets a bit much from time to time. Al the very best. Enjoy God’s country. Love"
+
+  - author: Russell Tinney
+    datetime: Feb 3, 2009
+    comment:
+      - "Why are you guys so slow ? Have you checked for rocks in your backpack, Alan ?"
+
+  - author: Betty Ashley-Botha
+    datetime: Feb 4, 2009
+    comment:
+      - "Hi hope you are having a wonderful time! You must be doing a lot of swimming!It reminds me of the Otter Trail."
+      - ""
+      - "Web page vey fascinating."
+      - ""
+      - "God Bless"
+      - "Betty and Bunny"
+
+  - author: Gavin Selfe
+    datetime: Feb 5, 2009
+    comment:
+      - "Go lads, the whole of East Park is watching and supporting you."
+      - "Gavin"
+
+  - author: Christopher Killerby
+    datetime: Feb 6, 2009
+    comment:
+      - "Hi Mr Stuart! Just to let you know my mother lives almost on the sea-front in Gonubie (near East London) and I am sure she’d love to give you guys a good meal if you fancy stopping en route… What a great thing you are doing!"
+      - ""
+      - "best wishes"
+
+  - author: Robert Ella
+    datetime: Feb 7, 2009
+    comment:
+      - "Chummy,this is a very special thing that you guys are doing and I know that it will also inspire alot off people,I for am one of them.Could you please post more pics of the locals you meet so that people here in Oz can see how basic they really do live and how much we can live without.Hope the sand stays hard and the wind from behind."
+
+  - author: Basil and Joan Scott-Hayward
+    datetime: Apr 9, 2009
+    comment:
+      - "Hi Allan and Chummy,"
+      - "We are at Trafalgar, ouw holiday simplex, north of Wild Coast, returng to JHB on Sunday."
+      - "Wonderful to hear what u r doing. Grant, our youngest,in Melbourne, sends regards as well. Enjoy an experience of a life-time. Our travels are strictly by air or car. But we love the outdoors. May the Lord richly bless you. Keep it up and don’t flag."
+
+  - author: Derek & moira
+    datetime: Apr 17, 2009
+    comment:
+      - "Hi Allan and Chummy"
+      - "We are Brenda and Mark Hallowes (PE)friends from Uvongo, South Coast."
+      - "Hope all is going well."
+      - "Are your plans still"
+      - "to spend a night with us when you get here? Look forward to hosting you."
+      - "Let us know."
+      - "Go well!"
+      - "Moira"
 
   - author: Lynn Forbes
-    datetime: May 31, 2009
-    comment: "Dear Chummy and Alan. I’ve been watching your progress with such interest - you’re both doing so well - God bless you both as you continue. Take good care. love from all the Forbesies in Jo’burg."
+    datetime: Apr 20, 2009
+    comment:
+      - "Dear Alan and Chummy,"
+      - "Well done to you both - and reaching the half-way mark is fantastic. Go well, take good care and enjoy every minute - what a wonderful way of seeing our amazing coastline."
+      - "Best wishes to you both and God bless."
+      - "Love from the Forbes family."
 
-  - author: Trevor Jones
-    datetime: Jun 23, 2009
-    comment: "Well done. Found your site just now. Hope to see you all soon. All the best, Trevor and Merelehelen"
+  - author:  Willie
+    datetime: Apr 24, 2009
+    comment:
+      - "See you in Kosi. When will you be here? I have beds at my lodge for you and family that is coming up to see the finish."
+      - ""
+      - "http://www.maputaland.net"
+      - "mail at maputaland.net"
+
+  - author: Marike
+    datetime: Apr 26, 2009
+    comment:
+      - "Dear Chummy"
+      - "Well done, you guys are doing GREAT!!! Enjoy every moment with Jesus as your teammate!"
+      - "I miss you alot!"
+      - "Just 4 Jesus***"
+      - "Your little friend"
+      - "Marike =)"
+      - "( <3 )"
+
+  - author: John
+    datetime: May 14, 2009
+    comment:
+      - "Good-on-yer-mate. I was chatting to your daughter last night and she told me that you were still w-a-l-k-i-n-g and pointed me to the website. Great photos. Easy to read diary. Wonderful to see you not just dreaming dreams but living them. Best wishes from New Zealand."
+
+  - author: Carol
+    datetime: Jul 12, 2009
+    comment:
+      - "Hi Alan and Chummy,"
+      - "well done on completing your journey! Do you wander (?) what to do with yourelves every morning now?"
+      - "Regards"
+      - "Carol"
