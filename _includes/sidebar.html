@@ -29,25 +29,14 @@
                 </ul>
             </li>
 
-
-
             <li>
                 <h2>Recent Posts</h2>
                 <ul>
-                    <li><a href='http://www.cape2kosi.com/2009/08/25/parting-thoughts-from-chummy/' title='Parting Thoughts from Chummy'>Parting Thoughts from Chummy</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/07/01/hiking-day-168/' title='Hiking Day 168 - 1st July: Kosi Bay'>Hiking Day 168 - 1st July: Kosi Bay</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/30/hiking-day-167/' title='Hiking Day 167 - 30th June: Fish Eagle Day'>Hiking Day 167 - 30th June: Fish Eagle Day</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/29/hiking-day-166/' title='Hiking Day 166 - 29th June: Sand Blasting'>Hiking Day 166 - 29th June: Sand Blasting</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/28/hiking-day-165/' title='Hiking Day 165 - 28th June: Mabibi Campsite'>Hiking Day 165 - 28th June: Mabibi Campsite</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/27/hiking-day-164/' title='Hiking Day 164 - 27th June: High Seas'>Hiking Day 164 - 27th June: High Seas</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/26/hiking-day-163/' title='Hiking Day 163 - 26th June: More Rest at Sodwana'>Hiking Day 163 - 26th June: More Rest at Sodwana</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/25/hiking-day-162/' title='Hiking Day 162 - 25th June: Rest Day at Sodwana'>Hiking Day 162 - 25th June: Rest Day at Sodwana</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/24/hiking-day-161/' title='Hiking Day 161 - 24th June: T -1 Week To Go'>Hiking Day 161 - 24th June: T -1 Week To Go</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/23/hiking-day-160/' title='Hiking Day 160 - 23rd June: Long walking day'>Hiking Day 160 - 23rd June: Long walking day</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/22/hiking-day-159/' title='Hiking Day 159 - 22nd June: Waiting and waiting'>Hiking Day 159 - 22nd June: Waiting and waiting</a></li>
-                    <li><a href='http://www.cape2kosi.com/2009/06/21/hiking-day-158/' title='Hiking Day 158 - 21st June: Wind to Cape Vidal'>Hiking Day 158 - 21st June: Wind to Cape Vidal</a></li>
 
-                </ul>
+                    {% for post in site.posts limit:10 %}
+                    <li><a href='{{ post.url }}' title='{{ post.title }}'>{{ post.title }}</a></li>
+                    {% endfor %}
+
             </li>
 
         </ul>
