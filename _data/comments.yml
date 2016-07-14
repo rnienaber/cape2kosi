@@ -192,6 +192,33 @@ contact-us:
      - "We hope you are very well at this moment !"
      - "The Dutch cupple Johanna and Bart"
 
+  - author: Jenna and Andrew Blignaut
+    datetime: Mar 02, 2009
+    comment:
+     - "Hi Chummy and Alan"
+     - ""
+     - "Hope tha hike is going well and all the best for the rest of the journey!!"
+     - "What you are doing is amazing, god bless :-)"
+     - ""
+     - "Jenna and Andrew."
+
+    post_name: how-can-i-help
+  - author: Beverley
+    datetime: Mar 18, 2009
+    comment:
+     - "To Chummy and Alan"
+     - ""
+     - "We believe you are somewhere in our area and so want to welcome you and send you our best wishes for the continuation of your hike. From all at the Humansdorp and Jeffreys Bay Methodist Churches."
+
+  - author: KCV
+    datetime: May 15, 2009
+    comment:
+     - "Hi there,"
+     - "Hope you guys are being kept safe and sound in your walk by the Lord.To do what you're doing takes a lot of guts,patience and endurance and I dont have enough of those to persevere as you have, and thats why I respect what you will achieve and hope your goals regarding the Phakamisa initiative are attained."
+     - ""
+     - "God bless for the journey"
+     - "Knowledge Cebo Vilakazi"
+
 diary-and-map:
   - author: Di Dee
     datetime: Feb 07, 2009
@@ -2232,33 +2259,6 @@ happy-hiking-feet-in-rocky-sandals:
      - ""
      - "Bryan and Erica"
 
-how-can-i-help:
-  - author: Jenna and Andrew Blignaut
-    datetime: Mar 02, 2009
-    comment:
-     - "Hi Chummy and Alan"
-     - ""
-     - "Hope tha hike is going well and all the best for the rest of the journey!!"
-     - "What you are doing is amazing, god bless :-)"
-     - ""
-     - "Jenna and Andrew."
-
-    post_name: how-can-i-help
-  - author: Beverley
-    datetime: Mar 18, 2009
-    comment:
-     - "To Chummy and Alan"
-     - ""
-     - "We believe you are somewhere in our area and so want to welcome you and send you our best wishes for the continuation of your hike. From all at the Humansdorp and Jeffreys Bay Methodist Churches."
-
-  - author: KCV
-    datetime: May 15, 2009
-    comment:
-     - "Hi there,"
-     - "Hope you guys are being kept safe and sound in your walk by the Lord.To do what you're doing takes a lot of guts,patience and endurance and I dont have enough of those to persevere as you have, and thats why I respect what you will achieve and hope your goals regarding the Phakamisa initiative are attained."
-     - ""
-     - "God bless for the journey"
-     - "Knowledge Cebo Vilakazi"
 
 map:
   - author: Bastiaen Norel

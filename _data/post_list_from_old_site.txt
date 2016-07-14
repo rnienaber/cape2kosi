@@ -1,0 +1,182 @@
+mysql> select id, post_title, post_name from wp_posts order by post_name;
++-----+---------------------------------------------------------------------+------------------------------------+
+| id  | post_title                                                          | post_name                          |
++-----+---------------------------------------------------------------------+------------------------------------+
+| 238 | Article in The Mercury                                              | article-in-the-mercury-28th-may    |
+|  96 | Diary (interactive map)                                             | map                                |
+| 269 | Parting Thoughts from Chummy                                        | parting-thoughts-from-chummy       |
+|  46 | Wild News Coverage                                                  | wild-news-coverage                 |
+|  44 | Zululand Observer Article                                           | zululand-observer-article          |
+
+|  58 | Hiking Day 1 - 15th Jan: In the beginning                           | hiking-day-1                       |
+|  77 | Hiking Day 10 - 24th Jan: Hermanus                                  | hiking-day-10                      |
+| 187 | Hiking Day 100 - 24th April: Wavecrest Resort                       | hiking-day-100                     |
+| 188 | Hiking Day 101 - 25th April: Cows on the Beach                      | hiking-day-101                     |
+| 189 | Hiking Day 102 - 26th April: Green Hills of the Wild Coast          | hiking-day-102                     |
+| 190 | Hiking Day 103 - 27th April: Seafood Supper                         | hiking-day-103                     |
+| 191 | Hiking Day 104 - 28th April: Cows on the Beach                      | hiking-day-104                     |
+| 192 | Hiking Day 105 - 29th April: Hole In The Wall                       | hiking-day-105                     |
+| 194 | Hiking Day 106 - 30th April: Up and Down to Coffee Bay              | hiking-day-106                     |
+| 195 | Hiking Day 107 - 1st May: More hills to leave Coffee Bay            | hiking-day-107                     |
+| 196 | Hiking Day 108 - 2nd May: Mnenu in the Rain                         | hiking-day-108                     |
+| 197 | Hiking Day 109 - 3rd May: More rain on the Wild Coast               | hiking-day-109                     |
+|  79 | Hiking Day 11 - 25th Jan: Off to die Kelders                        | hiking-day-11                      |
+| 199 | Hiking Day 110 - 4th May: Rest day at Mpande                        | hiking-day-110                     |
+| 200 | Hiking Day 111 - 5th May: Sharks in the River?                      | hiking-day-111                     |
+| 201 | Hiking Day 112 - 6th May: Rest time in Umngazi                      | hiking-day-112                     |
+| 202 | Hiking Day 113 - 7th May: Port St Johns                             | hiking-day-113                     |
+| 204 | Hiking Day 114 - 8th May: Leaving Port St Johns                     | hiking-day-114                     |
+| 205 | Hiking Day 115 - 9th May: Titanium Beach to Mbotyi                  | hiking-day-115                     |
+| 206 | Hiking Day 116 - 10th May: Wave Power at Luphutana                  | hiking-day-116                     |
+| 207 | Hiking Day 117 - 11th May: Swamps on the Wild Coast                 | hiking-day-117                     |
+| 208 | Hiking Day 118 - 12th May: Crayfish for Supper!                     | hiking-day-118                     |
+| 209 | Hiking Day 119 - 13th May: More North Easters                       | hiking-day-119                     |
+|  87 | Hiking Day 12 - 26th Jan: Longest day to Klein Baai                 | hiking-day-12                      |
+| 210 | Hiking Day 120 - 14th May: Arriving at Port Edward                  | hiking-day-120                     |
+| 211 | Hiking Day 121 - 15th May: Rest Day at Port Edward                  | hiking-day-121                     |
+| 212 | Hiking Day 122 - 16th May: Free icecreams!                          | hiking-day-122                     |
+| 213 | Hiking Day 123 - 17th May: Tumbling to Uvongo                       | hiking-day-123                     |
+| 214 | Hiking Day 124 - 18th May: Passing Port Shepstone                   | hiking-day-124                     |
+| 215 | Hiking Day 125 - 19th May: More Soft Sand                           | hiking-day-125                     |
+| 216 | Hiking Day 126 - 20th May: Ifafa Beach                              | hiking-day-126                     |
+| 217 | Hiking Day 127 - 21st May: Tough wind to Kelso                      | hiking-day-127                     |
+| 218 | Hiking Day 128 - 22nd May: Reached Scottburgh                       | hiking-day-128                     |
+| 219 | Hiking Day 129 - 23rd May: Rest at Scottburgh                       | hiking-day-129                     |
+|  88 | Hiking Day 13 - 27th Jan: Low tide to Uilkraalsmond                 | hiking-day-13                      |
+| 220 | Hiking Day 130 - 24th May: Fish River Canyon Training Squad         | hiking-day-130                     |
+| 221 | Hiking Day 131 - 25th May: Back onto hard sand at last!             | hiking-day-131                     |
+| 222 | Hiking Day 132 - 26th May: Leaving Amanzimtoti                      | hiking-day-132                     |
+| 223 | Hiking Day 133 - 27th May: Navy Boats!                              | hiking-day-133                     |
+| 227 | Hiking Day 134 - 28th May: Rest dat at Phakamisa                    | hiking-day-134                     |
+| 228 | Hiking Day 135 - 29th May: Speaking at Pinetown Venues              | hiking-day-135                     |
+| 231 | Hiking Day 136 - 30th May: Visiting Pinetown                        | hiking-day-136                     |
+| 232 | Hiking Day 137 - 31st May: Visiting Pinetown Methodist              | hiking-day-137                     |
+| 233 | Hiking Day 138 - 1st June: Supporters to Umhlanga                   | hiking-day-138                     |
+| 234 | Hiking Day 139 - 2nd June: 2000km's Reached!                        | hiking-day-139                     |
+|  91 | Hiking Day 14 - 28th Jan: Missing campsite                          | hiking-day-14                      |
+| 235 | Hiking Day 140 - 3rd June: Soft soft sand to Sheffield              | hiking-day-140                     |
+| 237 | Hiking Day 141 - 4th June: Crocodile Rivers                         | hiking-day-141                     |
+| 239 | Hiking Day 142 - 5th June: Zinkwazi River                           | hiking-day-142                     |
+| 240 | Hiking Day 143 - 6th June: Beautiful beach to Tugela                | hiking-day-143                     |
+| 241 | Hiking Day 144 - 7th June: Rest day at the Tugela Mouth             | hiking-day-144                     |
+| 242 | Hiking Day 145 - 8th June: Rainy day with Tugela Crossing           | hiking-day-145                     |
+| 243 | Hiking Day 146 - 9th June: Twin Streams                             | hiking-day-146                     |
+| 244 | Hiking Day 147 - 10th June: Short Easy Walk to Mtunzini             | hiking-day-147                     |
+| 245 | Hiking Day 148 - 11th June: NSRI Boats!                             | hiking-day-148                     |
+| 246 | Hiking Day 149 - 12th June: Rest in Richard's Bay                   | hiking-day-149                     |
+|  92 | Hiking Day 15 - 29th Jan: Rest at Die Dam                           | hiking-day-15                      |
+| 247 | Hiking Day 150 - 13th June: More rest at Richard's Bay              | hiking-day-150                     |
+| 248 | Hiking Day 151 - 14th June: Even MORE Rest                          | hiking-day-151                     |
+| 249 | Hiking Day 152 - 15th June: Back to Hiking Tomorrow                 | hiking-day-152                     |
+| 251 | Hiking Day 153 - 16th June: Back on the Trail                       | hiking-day-153                     |
+| 252 | Hiking Day 154 - 17th June: Sandy Sandy Night                       | hiking-day-154                     |
+| 253 | Hiking Day 155 - 18th June: Straight and Narrow                     | hiking-day-155                     |
+| 254 | Hiking Day 156 - 19th June: World Heritage Site                     | hiking-day-156                     |
+| 255 | Hiking Day 157 - 20th June: Animals Galore                          | hiking-day-157                     |
+| 256 | Hiking Day 158 - 21st June: Wind to Cape Vidal                      | hiking-day-158                     |
+| 257 | Hiking Day 159 - 22nd June: Waiting and waiting                     | hiking-day-159                     |
+|  93 | Hiking Day 16 - 30th Jan: Spring on a Dune                          | hiking-day-16                      |
+| 258 | Hiking Day 160 - 23rd June: Long walking day                        | hiking-day-160                     |
+| 259 | Hiking Day 161 - 24th June: T -1 Week To Go                         | hiking-day-161                     |
+| 260 | Hiking Day 162 - 25th June: Rest Day at Sodwana                     | hiking-day-162                     |
+| 261 | Hiking Day 163 - 26th June: More Rest at Sodwana                    | hiking-day-163                     |
+| 262 | Hiking Day 164 - 27th June: High Seas                               | hiking-day-164                     |
+| 263 | Hiking Day 165 - 28th June: Mabibi Campsite                         | hiking-day-165                     |
+| 264 | Hiking Day 166 - 29th June: Sand Blasting                           | hiking-day-166                     |
+| 265 | Hiking Day 167 - 30th June: Fish Eagle Day                          | hiking-day-167                     |
+| 266 | Hiking Day 168 - 1st July: Kosi Bay                                 | hiking-day-168                     |
+|  94 | Hiking Day 17 - 31 Jan: Foot-less at L'Agulhas                      | hiking-day-17                      |
+|  95 | Hiking Day 18 - 1st Feb: Off to Die Mond                            | hiking-day-18                      |
+|  97 | Hiking Day 19 - 2nd Feb: From Die Mond to Waenhuiskrans             | hiking-day-19                      |
+|  67 | Hiking Day 2 - 16th Jan: More good weather                          | hiking-day-2                       |
+|  98 | Hiking Day 20 - 3rd Feb: Windy in Die Hoop                          | hiking-day-20                      |
+|  99 | Hiking Day 21 - 4th Feb: Vaalkrans Hut Beauty                       | hiking-day-21                      |
+| 100 | Hiking Day 22 - 5th Feb: Windy Whale Trail                          | hiking-day-22                      |
+| 101 | Hiking Day 23 - 6th Feb: More wind to Noetsie                       | hiking-day-23                      |
+| 102 | Hiking Day 24 - 7th Feb: Bundu Bashing to Infanta                   | hiking-day-24                      |
+| 103 | Hiking Day 25 - 8th Feb: Breede and Duiwenhoks Rivers               | hiking-day-25                      |
+| 104 | Hiking Day 26 - 9th Feb: Playing in the Waves at Blombos Strand     | hiking-day-26                      |
+| 105 | Hiking Day 27 - 10th Feb: Meeting Jaco Kaalvoet in Stilbaai         | hiking-day-27                      |
+| 106 | Hiking Day 28 - 11th Feb: Ridge Climbing in Rooikraans              | hiking-day-28                      |
+| 107 | Hiking Day 29 - 12th Feb: Towards Ystervarkfontein                  | hiking-day-29                      |
+|  69 | Hiking Day 3 - 17th Jan: First long beach                           | hiking-day-3                       |
+| 108 | Hiking Day 30 - 13th Feb: Dental Floss repairs at Gouritsmond       | hiking-day-30                      |
+| 109 | Hiking Day 31 - 14th Feb: Rest at Gouritsmond                       | hiking-day-31                      |
+| 110 | Hiking Day 32 - 15th Feb: Dune bashing to Vleesbaai                 | hiking-day-32                      |
+| 111 | Hiking Day 33 - 16th Feb: Cold day to Danabaai                      | hiking-day-33                      |
+| 112 | Hiking Day 34 - 17th Feb: Another Missing Campsite at Diaz Beach    | hiking-day-34                      |
+| 113 | Hiking Day 35 - 18th Feb: High tide to Glentana                     | hiking-day-35                      |
+| 114 | Hiking Day 36 - 19th Feb: Exhausting Cliff Climbing Day             | hiking-day-36                      |
+| 115 | Hiking Day 37 - 20th Feb: More ups and downs to Vic Bay             | hiking-day-37                      |
+| 116 | Hiking Day 38 - 21st Feb: Vic Bay to Chummy's house                 | hiking-day-38                      |
+| 117 | Hiking Day 39 - 22nd Feb: Resting up at Chummy's                    | hiking-day-39                      |
+|  70 | Hiking Day 4 - 18th Jan: Eerste Rivier                              | hiking-day-4                       |
+| 118 | Hiking Day 40 - 23rd Feb: Group walk to Myoli Beach                 | hiking-day-40                      |
+| 119 | Hiking Day 41 - 24th Feb: Goukamma Reserve                          | hiking-day-41                      |
+| 120 | Hiking Day 42 - 25th Feb: Knysna                                    | hiking-day-42                      |
+| 121 | Hiking Day 43 - 26th Feb: Harkerville Huts Part 1                   | hiking-day-43                      |
+| 122 | Hiking Day 44 - 27th Feb: Forest Walking to Plett                   | hiking-day-44                      |
+| 123 | Hiking Day 46 - 1st March: Keurbooms Crossing                       | hiking-day-46                      |
+| 124 | Hiking Day 47 - 2nd March: First injury to Nature's Valley          | hiking-day-47                      |
+| 125 | Hiking Day 48 - 3rd March: Otter Trail                              | hiking-day-48                      |
+| 126 | Hiking Day 49 - 4th March: Bloukraans Crossing                      | hiking-day-49                      |
+|  71 | Hiking Day 5 - 19th Jan: Windy at Rooiels                           | hiking-day-5                       |
+| 127 | Hiking Day 50 - 5th March: Oakhurst Hut                             | hiking-day-50                      |
+| 128 | Hiking Day 51 - 6th March: Ngubu Hut                                | hiking-day-51                      |
+| 129 | Hiking Day 52 - 7th March: Final Otter Day                          | hiking-day-52                      |
+| 130 | Hiking Day 53 - 8th March: Resting at Storms River                  | hiking-day-53                      |
+| 131 | Hiking Day 54 - 9th March: On to the Dolphin Trail                  | hiking-day-54                      |
+| 132 | Hiking Day 55 - 10th March: Soaring temperatures and Melty Winegums | hiking-day-55                      |
+| 133 | Hiking Day 56 - 11th March: Forest Retreat                          | hiking-day-56                      |
+| 134 | Hiking Day 57 - 12th March: Hottest day yet!                        | hiking-day-57                      |
+| 135 | Hiking Day 58 - 13th March: Back to the beach                       | hiking-day-58                      |
+| 136 | Hiking Day 59 - 14th March: Half day to rest cottage                | hiking-day-59                      |
+|  72 | Hiking Day 6 - 20th Jan: Pringle Bay                                | hiking-day-6                       |
+| 137 | Hiking Day 60 - 15th March: Resting up in a beautiful spot          | hiking-day-60                      |
+| 139 | Hiking Day 61 -16th March: Hiding from the rain                     | hiking-day-61                      |
+| 140 | Hiking Day 62 - 17th March: Back on the trail                       | hiking-day-62                      |
+| 141 | Hiking Day 63 - 18th March: Arriving at J-Bay                       | hiking-day-63                      |
+| 142 | Hiking Day 64 - 19th March: Resting in JBay                         | hiking-day-64                      |
+| 143 | Hiking Day 65 - 20th March: End of the Rocky's                      | hiking-day-65                      |
+| 144 | Hiking Day 66 - 21st March: JBay to Gamtoos River                   | hiking-day-66                      |
+| 147 | Hiking Day 67 - 22nd March: Oyster Catchers Galore                  | hiking-day-67                      |
+| 149 | Hiking Day 68 - 23rd March: 100 days to go                          | hiking-day-68                      |
+| 150 | Hiking Day 69 - 24th March: Hiding from the South Easter            | hiking-day-69                      |
+|  74 | Hiking Day 7 - 21st Jan: Short walk to the first rest day           | hiking-day-7                       |
+| 151 | Hiking Day 70 - 25th March: Monkey business                         | hiking-day-70                      |
+| 152 | Hiking Day 71: 26th March: (Another!!) Rest day in PE.              | hiking-day-71                      |
+| 153 | Hiking Day 72 - 27th March: PE Bike Track                           | hiking-day-72                      |
+| 154 | Hiking Day 73 - 28th March: Coega to Sunday's River                 | hiking-day-73                      |
+| 156 | Hiking Day 74 - 29th March: First day of Woody Cape Reserve         | hiking-day-74                      |
+| 157 | Hiking Day 75 - 30th March: Dune Paintings                          | hiking-day-75                      |
+| 158 | Hiking Day 76 - 31st March: Desert Forest                           | hiking-day-76                      |
+| 159 | Hiking Day 77 - 1st April: Windy Cape Padrone                       | hiking-day-77                      |
+| 160 | Hiking Day 78 - 2nd April: Misty Morning at Woody Cape              | hiking-day-78                      |
+| 161 | Hiking Day 79 - 3rd April: Rest day at Cannon Rocks                 | hiking-day-79                      |
+|  75 | Hiking Day 8 - 22nd Jan: First rest day in Kleinmond                | hiking-day-8                       |
+| 162 | Hiking Day 80 - 4th April: Windy walk to Kenton                     | hiking-day-80                      |
+| 164 | Hiking Day 81 - 5th April: Church in Kenton                         | hiking-day-81                      |
+| 165 | Hiking Day 82 - 6th April: More beautiful beaches.                  | hiking-day-82                      |
+| 166 | Hiking Day 83 - 7th April: Stunning Sunshine Nature Reserve         | hiking-day-83                      |
+| 167 | Hiking Day 84 - 8th April: Half Way!!                               | hiking-day-84                      |
+| 168 | Hiking Day 85 - 9th April: Moon on the Water                        | hiking-day-85                      |
+| 173 | Hiking Day 86 - 10th April: Good Friday                             | hiking-day-86                      |
+| 174 | Hiking Day 87 - 11th April: Wide Beaches to Hamburg                 | hiking-day-87                      |
+| 175 | Hiking Day 88 - 12th April: Easter Sunday                           | hiking-day-88                      |
+| 176 | Hiking Day 89 - 13th April: Kidd's Beach                            | hiking-day-89                      |
+|  76 | Hiking Day 9 - 23rd Jan: Bot River to Onrus                         | hiking-day-9                       |
+| 177 | Hiking Day 90 - 14th April: Howling Gale to East London             | hiking-day-90                      |
+| 178 | Hiking Day 91 - 15th April: Great day to Nahoon                     | hiking-day-91                      |
+| 179 | Hiking Day 92 - 16th April: Nahoon to Gonubie                       | hiking-day-92                      |
+| 180 | Hiking Day 93 - 17th April: Rest in Gonubie                         | hiking-day-93                      |
+| 181 | Hiking Day 94 - 18th April: TV interview at Gonubie                 | hiking-day-94                      |
+| 182 | Hiking Day 95 - 19th April: Starting the Strandloper Trail          | hiking-day-95                      |
+| 183 | Hiking Day 96 - 20th April: Racing the Cold Front                   | hiking-day-96                      |
+| 184 | Hiking Day 97 - 21st April: Haga Haga Hamburger                     | hiking-day-97                      |
+| 185 | Hiking Day 98 - 22nd April: Voting Day at Kei Mouth                 | hiking-day-98                      |
+| 186 | Hiking Day 99 - 23rd April: Across the Kabonqaba River              | hiking-day-99                      |
+
++-----+---------------------------------------------------------------------+------------------------------------+
+
+https://github.com/samrayner/jekyll-asset-path-plugin/blob/master/asset_path_tag.rb
+find images in wp-content/uploads that are still referenced in jekyll
