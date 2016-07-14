@@ -1,7 +1,8 @@
 <div class="entry">
 <div class="bobcomments">
     <ol class="commentlist">
-        {% assign pagename = page.url | remove: "/" %}
+
+        {% assign pagename = page.url | remove: "/" | remove: ".html" %}
         {% assign comments = site.data.comments.[pagename] %}
 
         <li class="commenthead"><h3 id="comments">{{ comments.size }} Responses</h3></li>
