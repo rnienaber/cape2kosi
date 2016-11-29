@@ -180,3 +180,7 @@ mysql> select id, post_title, post_name from wp_posts order by post_name;
 
 https://github.com/samrayner/jekyll-asset-path-plugin/blob/master/asset_path_tag.rb
 find images in wp-content/uploads that are still referenced in jekyll
+
+move text over for each day
+photos for each day
+maps
