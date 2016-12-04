@@ -2,9 +2,9 @@
 {% assign short_date = page.hike_date | remove: "-" %}
 
 {% for image_name in day_photos.features %}
- <img src='/assets/images/camera_photos/{{ short_date }}/{{ image_name }}'></img>
+ <img src='http://images.cape2kosi.com/camera_photos/{{ short_date }}/{{ image_name }}'></img>
 {% endfor %}
 
 {% for image_name in day_photos.images %}
-<img src='/assets/images/camera_photos/{{ short_date }}/{{ image_name }}'></img>
+<img src='http://images.cape2kosi.com/camera_photos/{{ short_date }}/{{ image_name }}'></img>
 {% endfor %}
