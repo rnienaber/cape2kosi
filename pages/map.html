@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /map/
+---
+
+
+
+<div class="entry">
+    <h2>Diary (map based)</h2>
+
+
+    <p>The hikers have been sending through their GPS coordinates every evening and each desination is shown by a marker on the map.</p>
+
+    <div style="padding: 10px; border: 1px solid #cccccc;">
+        <p>Red marker shows where they ended each day.</p>
+        <p>Blue marker shows the rest days. (While they are the same spot at the previous day, they’ve been moved slightly so they don’t overlap.)</p>
+        <p>Green marker shows where they started and finished!</p>
+    </div>
+    <br/>
+
+    <p>Click on any marker to see more details about that day and to find a link to the diary for that day.</p>
+
+    <div id="map" style="width:100%; height:600px"></div>
+    <script> var data = {% include map_data.json %}; </script>
+    <script src="/assets/javascript/map_maker.js"></script>
+
+
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAm9YyAuTKP_n5Tc1LIYvVW2NWSCHpRHlY&callback=initMap">
+    </script>
+
+
+
+</div>
