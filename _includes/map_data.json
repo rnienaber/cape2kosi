@@ -1,7 +1,7 @@
 [{
   "km": "21.9",
   "day_number": "1",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/15\/hiking-day-1\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/15\/hiking-day-1.html",
   "hike_date": "2009-01-15",
   "description": "Hikers leaving Cape Point",
   "end_coord_lat": -34.228717,
@@ -10,7 +10,7 @@
 }, {
   "km": "20",
   "day_number": "2",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/16\/hiking-day-2\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/16\/hiking-day-2.html",
   "hike_date": "2009-01-16",
   "description": "Towards Muizemberg",
   "end_coord_lat": -34.108333,
@@ -19,7 +19,7 @@
 }, {
   "km": "21.3",
   "day_number": "3",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/17\/hiking-day-3\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/17\/hiking-day-3.html",
   "hike_date": "2009-01-17",
   "description": "Morning at Muizemberg.",
   "end_coord_lat": -34.073117,
@@ -28,7 +28,7 @@
 }, {
   "km": "27.4",
   "day_number": "4",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/18\/hiking-day-4\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/18\/hiking-day-4.html",
   "hike_date": "2009-01-18",
   "description": "Towards Gordons Bay.",
   "end_coord_lat": -34.147117,
@@ -37,7 +37,7 @@
 }, {
   "km": "23.8",
   "day_number": "5",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/19\/hiking-day-5\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/19\/hiking-day-5.html",
   "hike_date": "2009-01-19",
   "description": "Windy at Rooiels.",
   "end_coord_lat": -34.3013,
@@ -46,7 +46,7 @@
 }, {
   "km": "28.3",
   "day_number": "6",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/20\/hiking-day-6\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/20\/hiking-day-6.html",
   "hike_date": "2009-01-20",
   "description": "Pringle Bay.",
   "end_coord_lat": -34.350533,
@@ -55,7 +55,7 @@
 }, {
   "km": "11.8",
   "day_number": "7",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/21\/hiking-day-7\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/21\/hiking-day-7.html",
   "hike_date": "2009-01-21",
   "description": "View of Kleinmond.",
   "end_coord_lat": -34.336417,
@@ -64,7 +64,7 @@
 }, {
   "km": "0",
   "day_number": "8",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/22\/hiking-day-8\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/22\/hiking-day-8.html",
   "hike_date": "2009-01-22",
   "description": "Epic Eric takes a bath.",
   "end_coord_lat": -34.336417,
@@ -73,7 +73,7 @@
 }, {
   "km": "19.8",
   "day_number": "9",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/23\/hiking-day-9\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/23\/hiking-day-9.html",
   "hike_date": "2009-01-23",
   "description": "Bridge over Kleinmond lagoon towards Hawston.",
   "end_coord_lat": -34.41745,
@@ -82,7 +82,7 @@
 }, {
   "km": "18.9",
   "day_number": "10",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/24\/hiking-day-10\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/24\/hiking-day-10.html",
   "hike_date": "2009-01-24",
   "description": "Hermanus.",
   "end_coord_lat": -34.4158,
@@ -91,7 +91,7 @@
 }, {
   "km": "17.6",
   "day_number": "11",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/25\/hiking-day-11\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/25\/hiking-day-11.html",
   "hike_date": "2009-01-25",
   "description": "Die Kelders.",
   "end_coord_lat": -34.546533,
@@ -100,7 +100,7 @@
 }, {
   "km": "28.3",
   "day_number": "12",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/26\/hiking-day-12\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/26\/hiking-day-12.html",
   "hike_date": "2009-01-26",
   "description": "Longest day to Klein Baai.",
   "end_coord_lat": -34.616467,
@@ -109,7 +109,7 @@
 }, {
   "km": "19.1",
   "day_number": "13",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/27\/hiking-day-13\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/27\/hiking-day-13.html",
   "hike_date": "2009-01-27",
   "description": "Low tide to Uilkraalsmond.",
   "end_coord_lat": -34.670667,
@@ -127,7 +127,7 @@
 }, {
   "km": "0",
   "day_number": "15",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/29\/hiking-day-15\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/29\/hiking-day-15.html",
   "hike_date": "2009-01-29",
   "description": "Rest day at Die Dam campsite in Quion Point",
   "end_coord_lat": -34.763283,
@@ -136,7 +136,7 @@
 }, {
   "km": "23.1",
   "day_number": "16",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/30\/hiking-day-16\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/30\/hiking-day-16.html",
   "hike_date": "2009-01-30",
   "description": "Camping on a dune",
   "end_coord_lat": -34.783683,
@@ -145,7 +145,7 @@
 }, {
   "km": "23.8",
   "day_number": "17",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/31\/hiking-day-17\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/01\/31\/hiking-day-17.html",
   "hike_date": "2009-01-31",
   "description": "Off to Struisbaai",
   "end_coord_lat": -34.79825,
@@ -154,7 +154,7 @@
 }, {
   "km": "14.8",
   "day_number": "18",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/01\/hiking-day-18\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/01\/hiking-day-18.html",
   "hike_date": "2009-02-01",
   "description": "Die Mond",
   "end_coord_lat": -34.7052,
@@ -163,7 +163,7 @@
 }, {
   "km": "13",
   "day_number": "19",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/02\/hiking-day-19\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/02\/hiking-day-19.html",
   "hike_date": "2009-02-02",
   "description": "Waenhuiskrans",
   "end_coord_lat": -34.6697,
@@ -172,7 +172,7 @@
 }, {
   "km": "28.3",
   "day_number": "20",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/03\/hiking-day-20\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/03\/hiking-day-20.html",
   "hike_date": "2009-02-03",
   "description": "Looking out the tent...",
   "end_coord_lat": -34.505183,
@@ -181,7 +181,7 @@
 }, {
   "km": "13.5",
   "day_number": "21",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/04\/hiking-day-21\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/04\/hiking-day-21.html",
   "hike_date": "2009-02-04",
   "description": "Vaalkrans Hut. Total paradise!",
   "end_coord_lat": -34.461267,
@@ -190,7 +190,7 @@
 }, {
   "km": "10.9",
   "day_number": "22",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/05\/hiking-day-22\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/05\/hiking-day-22.html",
   "hike_date": "2009-02-05",
   "description": "Blown to the Hammerkop Hut.",
   "end_coord_lat": -34.44875,
@@ -199,7 +199,7 @@
 }, {
   "km": "8.9",
   "day_number": "23",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/06\/hiking-day-23\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/06\/hiking-day-23.html",
   "hike_date": "2009-02-06",
   "description": "More wind to Noetsie.",
   "end_coord_lat": -34.452417,
@@ -208,7 +208,7 @@
 }, {
   "km": "21.8",
   "day_number": "24",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/07\/hiking-day-24\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/07\/hiking-day-24.html",
   "hike_date": "2009-02-07",
   "description": "Infanta",
   "end_coord_lat": -34.420783,
@@ -217,7 +217,7 @@
 }, {
   "km": "19.9",
   "day_number": "25",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/08\/hiking-day-25\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/08\/hiking-day-25.html",
   "hike_date": "2009-02-08",
   "description": "A very physical swim across Duiwenhoksrivier.",
   "end_coord_lat": -34.366317,
@@ -226,7 +226,7 @@
 }, {
   "km": "20.3",
   "day_number": "26",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/09\/hiking-day-26\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/09\/hiking-day-26.html",
   "hike_date": "2009-02-09",
   "description": "Beach between Steenkool Fontein and Blombos Strand.",
   "end_coord_lat": -34.411033,
@@ -235,7 +235,7 @@
 }, {
   "km": "26.7",
   "day_number": "27",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/10\/hiking-day-27\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/10\/hiking-day-27.html",
   "hike_date": "2009-02-10",
   "description": "Meeting Jaco (another hiker) in Stilbaai.",
   "end_coord_lat": -34.372717,
@@ -244,7 +244,7 @@
 }, {
   "km": "14.3",
   "day_number": "28",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/11\/hiking-day-28\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/11\/hiking-day-28.html",
   "hike_date": "2009-02-11",
   "description": "Hard climb in the Rooikraans.",
   "end_coord_lat": -34.3612,
@@ -253,7 +253,7 @@
 }, {
   "km": "16",
   "day_number": "29",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/12\/hiking-day-29\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/12\/hiking-day-29.html",
   "hike_date": "2009-02-12",
   "description": "Towards Ystervarkfontein.",
   "end_coord_lat": -34.392917,
@@ -262,7 +262,7 @@
 }, {
   "km": "19.7",
   "day_number": "30",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/13\/hiking-day-30\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/13\/hiking-day-30.html",
   "hike_date": "2009-02-13",
   "description": "Ystervark to Gourits.",
   "end_coord_lat": -34.3517,
@@ -271,7 +271,7 @@
 }, {
   "km": "0",
   "day_number": "31",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/14\/hiking-day-31\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/14\/hiking-day-31.html",
   "hike_date": "2009-02-14",
   "description": "Rest day at Gouritsmond.",
   "end_coord_lat": -34.3517,
@@ -280,7 +280,7 @@
 }, {
   "km": "12.2",
   "day_number": "32",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/15\/hiking-day-32\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/15\/hiking-day-32.html",
   "hike_date": "2009-02-15",
   "description": "Dune bashing to Vleesbaai.",
   "end_coord_lat": -34.295333,
@@ -289,7 +289,7 @@
 }, {
   "km": "16.8",
   "day_number": "33",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/16\/hiking-day-33\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/16\/hiking-day-33.html",
   "hike_date": "2009-02-16",
   "description": "Cold day in the sun to Danabaai.",
   "end_coord_lat": -34.207417,
@@ -298,7 +298,7 @@
 }, {
   "km": "26.7",
   "day_number": "34",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/17\/hiking-day-34\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/17\/hiking-day-34.html",
   "hike_date": "2009-02-17",
   "description": "Point Lighthouse en route to Hartenbos.",
   "end_coord_lat": -34.129383,
@@ -307,7 +307,7 @@
 }, {
   "km": "22.6",
   "day_number": "35",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/18\/hiking-day-35\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/18\/hiking-day-35.html",
   "hike_date": "2009-02-18",
   "description": "Leaving Hartenbos hoping to miss the rain.",
   "end_coord_lat": -34.050533,
@@ -316,7 +316,7 @@
 }, {
   "km": "11.4",
   "day_number": "36",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/19\/hiking-day-36\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/19\/hiking-day-36.html",
   "hike_date": "2009-02-19",
   "description": "Exhausting day of cliffs.",
   "end_coord_lat": -34.053233,
@@ -325,7 +325,7 @@
 }, {
   "km": "25",
   "day_number": "37",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/20\/hiking-day-37\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/20\/hiking-day-37.html",
   "hike_date": "2009-02-20",
   "description": "Gwang River mouth.",
   "end_coord_lat": -34.004383,
@@ -334,7 +334,7 @@
 }, {
   "km": "9.53",
   "day_number": "38",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/21\/hiking-day-38\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/21\/hiking-day-38.html",
   "hike_date": "2009-02-21",
   "description": "Wilderness main beach section.",
   "end_coord_lat": -34.00155,
@@ -343,7 +343,7 @@
 }, {
   "km": "0",
   "day_number": "39",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/22\/hiking-day-39\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/22\/hiking-day-39.html",
   "hike_date": "2009-02-22",
   "description": "Wilderness Beach rest stop.",
   "end_coord_lat": -34.00155,
@@ -352,7 +352,7 @@
 }, {
   "km": "17.7",
   "day_number": "40",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/23\/hiking-day-40\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/23\/hiking-day-40.html",
   "hike_date": "2009-02-23",
   "description": "Group walk to Myoli Beach",
   "end_coord_lat": -34.033483,
@@ -361,7 +361,7 @@
 }, {
   "km": "18.8",
   "day_number": "41",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/24\/hiking-day-41\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/24\/hiking-day-41.html",
   "hike_date": "2009-02-24",
   "description": "Goukamma Reserve.",
   "end_coord_lat": -34.0866,
@@ -370,7 +370,7 @@
 }, {
   "km": "13.9",
   "day_number": "42",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/25\/hiking-day-42\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/25\/hiking-day-42.html",
   "hike_date": "2009-02-25",
   "description": "Train tracks to Knysna.",
   "end_coord_lat": -34.035367,
@@ -379,7 +379,7 @@
 }, {
   "km": "22.2",
   "day_number": "43",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/26\/hiking-day-43\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/26\/hiking-day-43.html",
   "hike_date": "2009-02-26",
   "description": "Harkerville Huts Part 1.",
   "end_coord_lat": -34.079733,
@@ -388,7 +388,7 @@
 }, {
   "km": "17.6",
   "day_number": "44",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/27\/hiking-day-44\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/02\/27\/hiking-day-44.html",
   "hike_date": "2009-02-27",
   "description": "Forest Walking.",
   "end_coord_lat": -34.086083,
@@ -406,7 +406,7 @@
 }, {
   "km": "17.9",
   "day_number": "46",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/01\/hiking-day-46\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/01\/hiking-day-46.html",
   "hike_date": "2009-03-01",
   "description": "Camping at Keurbooms",
   "end_coord_lat": -34.002483,
@@ -415,7 +415,7 @@
 }, {
   "km": "12.7",
   "day_number": "47",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/02\/hiking-day-47\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/02\/hiking-day-47.html",
   "hike_date": "2009-03-02",
   "description": "Ankles to Natures Valley",
   "end_coord_lat": -33.97015,
@@ -424,7 +424,7 @@
 }, {
   "km": "8.61",
   "day_number": "48",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/03\/hiking-day-48\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/03\/hiking-day-48.html",
   "hike_date": "2009-03-03",
   "description": "Entering the Otter Trail.",
   "end_coord_lat": -33.979017,
@@ -433,7 +433,7 @@
 }, {
   "km": "13.7",
   "day_number": "49",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/04\/hiking-day-49\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/04\/hiking-day-49.html",
   "hike_date": "2009-03-04",
   "description": "Bloukraans Crossing",
   "end_coord_lat": -33.995233,
@@ -442,7 +442,7 @@
 }, {
   "km": "8.1",
   "day_number": "50",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/05\/hiking-day-50\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/05\/hiking-day-50.html",
   "hike_date": "2009-03-05",
   "description": "Oakhurst Hut",
   "end_coord_lat": -34.006233,
@@ -451,7 +451,7 @@
 }, {
   "km": "8.2",
   "day_number": "51",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/06\/hiking-day-51\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/06\/hiking-day-51.html",
   "hike_date": "2009-03-06",
   "description": "Ngubu Hut",
   "end_coord_lat": -34.017433,
@@ -460,7 +460,7 @@
 }, {
   "km": "5",
   "day_number": "52",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/07\/hiking-day-52\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/07\/hiking-day-52.html",
   "hike_date": "2009-03-07",
   "description": "Alan and Chummy",
   "end_coord_lat": -34.023467,
@@ -469,7 +469,7 @@
 }, {
   "km": "0",
   "day_number": "53",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/08\/hiking-day-53\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/08\/hiking-day-53.html",
   "hike_date": "2009-03-08",
   "description": "Rest at Storms River",
   "end_coord_lat": -34.023467,
@@ -478,7 +478,7 @@
 }, {
   "km": "12.8",
   "day_number": "54",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/08\/hiking-day-54\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/08\/hiking-day-54.html",
   "hike_date": "2009-03-09",
   "description": "Leaving Storms River",
   "end_coord_lat": -33.991117,
@@ -487,7 +487,7 @@
 }, {
   "km": "23.75",
   "day_number": "55",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/10\/hiking-day-55\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/10\/hiking-day-55.html",
   "hike_date": "2009-03-10",
   "description": "Soaring temperatures and melty wine gums.",
   "end_coord_lat": -34.00365,
@@ -496,7 +496,7 @@
 }, {
   "km": "19",
   "day_number": "56",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/11\/hiking-day-56\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/11\/hiking-day-56.html",
   "hike_date": "2009-03-11",
   "description": "Camping in the Forest",
   "end_coord_lat": -34.073383,
@@ -505,7 +505,7 @@
 }, {
   "km": "15.5",
   "day_number": "57",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/12\/hiking-day-57\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/12\/hiking-day-57.html",
   "hike_date": "2009-03-12",
   "description": "Hottest day to Huisklip",
   "end_coord_lat": -34.137933,
@@ -514,7 +514,7 @@
 }, {
   "km": "25.9",
   "day_number": "58",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/13\/hiking-day-58\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/13\/hiking-day-58.html",
   "hike_date": "2009-03-13",
   "description": "Back to the beach!",
   "end_coord_lat": -34.179367,
@@ -523,7 +523,7 @@
 }, {
   "km": "8.8",
   "day_number": "59",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/14\/hiking-day-59\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/14\/hiking-day-59.html",
   "hike_date": "2009-03-14",
   "description": "Beautiful views from rest day cottage.",
   "end_coord_lat": -34.188133,
@@ -532,7 +532,7 @@
 }, {
   "km": "0",
   "day_number": "60",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/15\/hiking-day-60\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/15\/hiking-day-60.html",
   "hike_date": "2009-03-15",
   "description": "Looking over the dunes.",
   "end_coord_lat": -34.188133,
@@ -541,7 +541,7 @@
 }, {
   "km": "0",
   "day_number": "61",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/16\/hiking-day-61\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/16\/hiking-day-61.html",
   "hike_date": "2009-03-16",
   "description": "Double rest day",
   "end_coord_lat": -34.188133,
@@ -550,7 +550,7 @@
 }, {
   "km": "19.3",
   "day_number": "62",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/17\/hiking-day-62\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/17\/hiking-day-62.html",
   "hike_date": "2009-03-17",
   "description": "Cold and windy to St Francis",
   "end_coord_lat": -34.165833,
@@ -559,7 +559,7 @@
 }, {
   "km": "21.2",
   "day_number": "63",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/19\/hiking-day-63\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/19\/hiking-day-63.html",
   "hike_date": "2009-03-18",
   "description": "From St Francis to Jeffery's Bay",
   "end_coord_lat": -34.038867,
@@ -568,7 +568,7 @@
 }, {
   "km": "0",
   "day_number": "64",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/19\/hiking-day-64\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/19\/hiking-day-64.html",
   "hike_date": "2009-03-19",
   "description": "Another rest in JBay.",
   "end_coord_lat": -34.038867,
@@ -577,7 +577,7 @@
 }, {
   "km": "0",
   "day_number": "65",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/20\/hiking-day-65\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/20\/hiking-day-65.html",
   "hike_date": "2009-03-20",
   "description": "Resting up in Jeffery's Bay",
   "end_coord_lat": -34.038867,
@@ -586,7 +586,7 @@
 }, {
   "km": "18.3",
   "day_number": "66",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/21\/hiking-day-66\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/21\/hiking-day-66.html",
   "hike_date": "2009-03-21",
   "description": "JBay to Gamtoos River",
   "end_coord_lat": -33.961667,
@@ -595,7 +595,7 @@
 }, {
   "km": "17.1",
   "day_number": "67",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/22\/hiking-day-67\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/22\/hiking-day-67.html",
   "hike_date": "2009-03-22",
   "description": "Van Staaden's River Mouth",
   "end_coord_lat": -33.9671,
@@ -604,7 +604,7 @@
 }, {
   "km": "17.3",
   "day_number": "68",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/23\/hiking-day-68\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/23\/hiking-day-68.html",
   "hike_date": "2009-03-23",
   "description": "Tidal pool at Beachview",
   "end_coord_lat": -34.016833,
@@ -613,7 +613,7 @@
 }, {
   "km": "21.7",
   "day_number": "69",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/24\/hiking-day-69\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/24\/hiking-day-69.html",
   "hike_date": "2009-03-24",
   "description": "Hiding from the South Easter",
   "end_coord_lat": -34.04335,
@@ -622,7 +622,7 @@
 }, {
   "km": "21.3",
   "day_number": "70",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/25\/hiking-day-70\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/25\/hiking-day-70.html",
   "hike_date": "2009-03-25",
   "description": "Sharing lunch with the monkeys",
   "end_coord_lat": -33.976817,
@@ -631,7 +631,7 @@
 }, {
   "km": "0",
   "day_number": "71",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/26\/hiking-day-71\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/26\/hiking-day-71.html",
   "hike_date": "2009-03-26",
   "description": "Rest day in PE.",
   "end_coord_lat": -33.976817,
@@ -640,7 +640,7 @@
 }, {
   "km": "22.3",
   "day_number": "72",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/27\/hiking-day-72\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/27\/hiking-day-72.html",
   "hike_date": "2009-03-27",
   "description": "Leaving PE on the bike track",
   "end_coord_lat": -33.812,
@@ -649,7 +649,7 @@
 }, {
   "km": "27.1",
   "day_number": "73",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/28\/hiking-day-73\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/28\/hiking-day-73.html",
   "hike_date": "2009-03-28",
   "description": "Beautiful stretch between Coega and Sunday's River.",
   "end_coord_lat": -33.708167,
@@ -658,7 +658,7 @@
 }, {
   "km": "19.2",
   "day_number": "74",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/29\/hiking-day-74\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/29\/hiking-day-74.html",
   "hike_date": "2009-03-29",
   "description": "First day of hiking in the Woody Cape Nature Reserve",
   "end_coord_lat": -33.703933,
@@ -667,7 +667,7 @@
 }, {
   "km": "19.1",
   "day_number": "75",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/30\/hiking-day-75\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/30\/hiking-day-75.html",
   "hike_date": "2009-03-30",
   "description": "Beautiful Dunes in Woody Cape",
   "end_coord_lat": -33.74065,
@@ -676,7 +676,7 @@
 }, {
   "km": "12.6",
   "day_number": "76",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/31\/hiking-day-76\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/03\/31\/hiking-day-76.html",
   "hike_date": "2009-03-31",
   "description": "Rainy day in Woody Cape",
   "end_coord_lat": -33.763217,
@@ -685,7 +685,7 @@
 }, {
   "km": "15.2",
   "day_number": "77",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/01\/hiking-day-77\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/01\/hiking-day-77.html",
   "hike_date": "2009-04-01",
   "description": "Windy at Cape Padrone",
   "end_coord_lat": -33.769967,
@@ -694,7 +694,7 @@
 }, {
   "km": "8.55",
   "day_number": "78",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/02\/hiking-day-78\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/02\/hiking-day-78.html",
   "hike_date": "2009-04-02",
   "description": "Misty morning at Woody Cape.",
   "end_coord_lat": -33.74995,
@@ -703,7 +703,7 @@
 }, {
   "km": "0",
   "day_number": "79",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/03\/hiking-day-79\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/03\/hiking-day-79.html",
   "hike_date": "2009-04-03",
   "description": "Rest day at Cannon Rocks",
   "end_coord_lat": -33.74995,
@@ -712,7 +712,7 @@
 }, {
   "km": "15.6",
   "day_number": "80",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/04\/hiking-day-80\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/04\/hiking-day-80.html",
   "hike_date": "2009-04-04",
   "description": "Windy walk to Kenton on Sea",
   "end_coord_lat": -33.683033,
@@ -721,7 +721,7 @@
 }, {
   "km": "9.9",
   "day_number": "81",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/05\/hiking-day-81\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/05\/hiking-day-81.html",
   "hike_date": "2009-04-05",
   "description": "Church in Kenton",
   "end_coord_lat": -33.64575,
@@ -730,7 +730,7 @@
 }, {
   "km": "18.9",
   "day_number": "82",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/06\/hiking-day-82\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/06\/hiking-day-82.html",
   "hike_date": "2009-04-06",
   "description": "More beautiful beaches.",
   "end_coord_lat": -33.592133,
@@ -739,7 +739,7 @@
 }, {
   "km": "13.8",
   "day_number": "83",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/07\/hiking-day-83\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/07\/hiking-day-83.html",
   "hike_date": "2009-04-07",
   "description": "Into the Sunshine Nature Reserve.",
   "end_coord_lat": -33.560583,
@@ -748,7 +748,7 @@
 }, {
   "km": "19.1",
   "day_number": "84",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/08\/hiking-day-84\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/08\/hiking-day-84.html",
   "hike_date": "2009-04-08",
   "description": "Half Way at Fish River",
   "end_coord_lat": -33.4881,
@@ -757,7 +757,7 @@
 }, {
   "km": "15",
   "day_number": "85",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/09\/hiking-day-85\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/09\/hiking-day-85.html",
   "hike_date": "2009-04-09",
   "description": "Sleeping on the dunes.",
   "end_coord_lat": -33.427883,
@@ -766,7 +766,7 @@
 }, {
   "km": "16.3",
   "day_number": "86",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/10\/hiking-day-86\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/10\/hiking-day-86.html",
   "hike_date": "2009-04-10",
   "description": "Good Friday",
   "end_coord_lat": -33.353567,
@@ -775,7 +775,7 @@
 }, {
   "km": "16.2",
   "day_number": "87",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/11\/hiking-day-87\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/11\/hiking-day-87.html",
   "hike_date": "2009-04-11",
   "description": "Wide beaches to Hamburg",
   "end_coord_lat": -33.284017,
@@ -784,7 +784,7 @@
 }, {
   "km": "15.6",
   "day_number": "88",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/12\/hiking-day-88\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/12\/hiking-day-88.html",
   "hike_date": "2009-04-12",
   "description": "Easter Sunday",
   "end_coord_lat": -33.223617,
@@ -793,7 +793,7 @@
 }, {
   "km": "18.6",
   "day_number": "89",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/13\/hiking-day-89\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/13\/hiking-day-89.html",
   "hike_date": "2009-04-13",
   "description": "Kidd's Beach",
   "end_coord_lat": -33.148383,
@@ -802,7 +802,7 @@
 }, {
   "km": "25.4",
   "day_number": "90",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/14\/hiking-day-90\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/14\/hiking-day-90.html",
   "hike_date": "2009-04-14",
   "description": "Howling gale to East London",
   "end_coord_lat": -33.037533,
@@ -811,7 +811,7 @@
 }, {
   "km": "10.6",
   "day_number": "91",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/15\/hiking-day-91\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/15\/hiking-day-91.html",
   "hike_date": "2009-04-15",
   "description": "Great weather to Nahoon",
   "end_coord_lat": -32.983717,
@@ -820,7 +820,7 @@
 }, {
   "km": "11.1",
   "day_number": "92",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/16\/hiking-day-92\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/16\/hiking-day-92.html",
   "hike_date": "2009-04-16",
   "description": "Nahoon to Gonubie",
   "end_coord_lat": -32.934633,
@@ -829,7 +829,7 @@
 }, {
   "km": "0",
   "day_number": "93",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/17\/hiking-day-93\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/17\/hiking-day-93.html",
   "hike_date": "2009-04-17",
   "description": "Resting at Gonubie",
   "end_coord_lat": -32.934633,
@@ -838,7 +838,7 @@
 }, {
   "km": "0",
   "day_number": "94",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/18\/hiking-day-94\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/18\/hiking-day-94.html",
   "hike_date": "2009-04-18",
   "description": "Another rest day at Gonubie",
   "end_coord_lat": -32.934633,
@@ -847,7 +847,7 @@
 }, {
   "km": "14.5",
   "day_number": "95",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/19\/hiking-day-95\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/19\/hiking-day-95.html",
   "hike_date": "2009-04-19",
   "description": "Strandloper Trail",
   "end_coord_lat": -32.860517,
@@ -856,7 +856,7 @@
 }, {
   "km": "14",
   "day_number": "96",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/20\/hiking-day-96\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/20\/hiking-day-96.html",
   "hike_date": "2009-04-20",
   "description": "Racing the cold front",
   "end_coord_lat": -32.78355,
@@ -865,7 +865,7 @@
 }, {
   "km": "15.5",
   "day_number": "97",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/21\/hiking-day-97\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/21\/hiking-day-97.html",
   "hike_date": "2009-04-21",
   "description": "Cold day on the Strandloper Trail",
   "end_coord_lat": -32.72415,
@@ -874,7 +874,7 @@
 }, {
   "km": "12.4",
   "day_number": "98",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/22\/hiking-day-98\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/22\/hiking-day-98.html",
   "hike_date": "2009-04-22",
   "description": "Windy Journey to Kei Mouth",
   "end_coord_lat": -32.700283,
@@ -883,7 +883,7 @@
 }, {
   "km": "24.7",
   "day_number": "99",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/23\/hiking-day-99\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/23\/hiking-day-99.html",
   "hike_date": "2009-04-23",
   "description": "Wavecrest Holiday Resort",
   "end_coord_lat": -32.584767,
@@ -892,7 +892,7 @@
 }, {
   "km": "0",
   "day_number": "100",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/24\/hiking-day-100\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/24\/hiking-day-100.html",
   "hike_date": "2009-04-24",
   "description": "100 Day Mark at Wavecrest Holiday Resort",
   "end_coord_lat": -32.584767,
@@ -901,7 +901,7 @@
 }, {
   "km": "27.3",
   "day_number": "101",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/25\/hiking-day-101\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/25\/hiking-day-101.html",
   "hike_date": "2009-04-25",
   "description": "Cows on the Beach",
   "end_coord_lat": -32.438317,
@@ -910,7 +910,7 @@
 }, {
   "km": "22.8",
   "day_number": "102",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/26\/hiking-day-102\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/26\/hiking-day-102.html",
   "hike_date": "2009-04-26",
   "description": "Green Hills of the Wild Coast",
   "end_coord_lat": -32.303783,
@@ -919,7 +919,7 @@
 }, {
   "km": "15.6",
   "day_number": "103",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/27\/hiking-day-103\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/27\/hiking-day-103.html",
   "hike_date": "2009-04-27",
   "description": "More green hills of the Wild Coast",
   "end_coord_lat": -32.2249,
@@ -928,7 +928,7 @@
 }, {
   "km": "13.7",
   "day_number": "104",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/28\/hiking-day-104\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/28\/hiking-day-104.html",
   "hike_date": "2009-04-28",
   "description": "Sharing the beach with cows",
   "end_coord_lat": -32.1409,
@@ -937,7 +937,7 @@
 }, {
   "km": "19.5",
   "day_number": "105",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/29\/hiking-day-105\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/29\/hiking-day-105.html",
   "hike_date": "2009-04-29",
   "description": "Hole In The Wall",
   "end_coord_lat": -32.032,
@@ -946,7 +946,7 @@
 }, {
   "km": "8.84",
   "day_number": "106",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/30\/hiking-day-106\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/04\/30\/hiking-day-106.html",
   "hike_date": "2009-04-30",
   "description": "Up and Down to Coffee Bay",
   "end_coord_lat": -31.984033,
@@ -955,7 +955,7 @@
 }, {
   "km": "11.4",
   "day_number": "107",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/01\/hiking-day-107\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/01\/hiking-day-107.html",
   "hike_date": "2009-05-01",
   "description": "Passing Umtata River Mouth",
   "end_coord_lat": -31.94,
@@ -964,7 +964,7 @@
 }, {
   "km": "22.7",
   "day_number": "108",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/02\/hiking-day-108\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/02\/hiking-day-108.html",
   "hike_date": "2009-05-02",
   "description": "Mnenu Beach",
   "end_coord_lat": -31.813183,
@@ -973,7 +973,7 @@
 }, {
   "km": "9.8",
   "day_number": "109",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/04\/hiking-day-109\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/04\/hiking-day-109.html",
   "hike_date": "2009-05-03",
   "description": "Mpande Beach",
   "end_coord_lat": -31.755867,
@@ -982,7 +982,7 @@
 }, {
   "km": "0",
   "day_number": "110",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/04\/hiking-day-110\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/04\/hiking-day-110.html",
   "hike_date": "2009-05-04",
   "description": "Rest day",
   "end_coord_lat": -31.755867,
@@ -991,7 +991,7 @@
 }, {
   "km": "15.3",
   "day_number": "111",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/05\/hiking-day-111\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/05\/hiking-day-111.html",
   "hike_date": "2009-05-05",
   "description": "River crossings to Umngazi",
   "end_coord_lat": -31.672833,
@@ -1000,7 +1000,7 @@
 }, {
   "km": "0",
   "day_number": "112",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/06\/hiking-day-112\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/06\/hiking-day-112.html",
   "hike_date": "2009-05-06",
   "description": "Rest at Umngazi",
   "end_coord_lat": -31.672833,
@@ -1009,7 +1009,7 @@
 }, {
   "km": "15.7",
   "day_number": "113",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/07\/hiking-day-113\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/07\/hiking-day-113.html",
   "hike_date": "2009-05-07",
   "description": "Arriving at Port St Johns",
   "end_coord_lat": -31.62155,
@@ -1018,7 +1018,7 @@
 }, {
   "km": "13.3",
   "day_number": "114",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/08\/hiking-day-114\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/08\/hiking-day-114.html",
   "hike_date": "2009-05-08",
   "description": "Leaving Port St Johns",
   "end_coord_lat": -31.555,
@@ -1027,7 +1027,7 @@
 }, {
   "km": "20.3",
   "day_number": "115",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/09\/hiking-day-115\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/09\/hiking-day-115.html",
   "hike_date": "2009-05-09",
   "description": "Titanium Beach to Mbotyi",
   "end_coord_lat": -31.4636,
@@ -1036,7 +1036,7 @@
 }, {
   "km": "15",
   "day_number": "116",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/10\/hiking-day-116\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/10\/hiking-day-116.html",
   "hike_date": "2009-05-10",
   "description": "Wave Power at Luphutana",
   "end_coord_lat": -31.4227,
@@ -1045,7 +1045,7 @@
 }, {
   "km": "18.7",
   "day_number": "117",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/11\/hiking-day-117\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/11\/hiking-day-117.html",
   "hike_date": "2009-05-11",
   "description": "More hiking on the Wild Coast",
   "end_coord_lat": -31.321683,
@@ -1054,7 +1054,7 @@
 }, {
   "km": "13.7",
   "day_number": "118",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/12\/hiking-day-118\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/12\/hiking-day-118.html",
   "hike_date": "2009-05-12",
   "description": "Crayfish for supper!",
   "end_coord_lat": -31.249933,
@@ -1063,7 +1063,7 @@
 }, {
   "km": "16",
   "day_number": "119",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/13\/hiking-day-119\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/13\/hiking-day-119.html",
   "hike_date": "2009-05-13",
   "description": "Mynameni River",
   "end_coord_lat": -31.151533,
@@ -1072,7 +1072,7 @@
 }, {
   "km": "17.4",
   "day_number": "120",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/14\/hiking-day-120\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/14\/hiking-day-120.html",
   "hike_date": "2009-05-14",
   "description": "Arriving at Port Edward",
   "end_coord_lat": -31.046283,
@@ -1081,7 +1081,7 @@
 }, {
   "km": "0",
   "day_number": "121",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/15\/hiking-day-121\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/15\/hiking-day-121.html",
   "hike_date": "2009-05-15",
   "description": "Rest Day at Port Edward",
   "end_coord_lat": -31.046283,
@@ -1090,7 +1090,7 @@
 }, {
   "km": "17.2",
   "day_number": "122",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/16\/hiking-day-122\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/16\/hiking-day-122.html",
   "hike_date": "2009-05-16",
   "description": "Free icecreams!",
   "end_coord_lat": -30.9338,
@@ -1099,7 +1099,7 @@
 }, {
   "km": "16.3",
   "day_number": "123",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/17\/hiking-day-123\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/17\/hiking-day-123.html",
   "hike_date": "2009-05-17",
   "description": "Tumbling to Uvongo",
   "end_coord_lat": -30.837083,
@@ -1108,7 +1108,7 @@
 }, {
   "km": "20.5",
   "day_number": "124",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/18\/hiking-day-124\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/18\/hiking-day-124.html",
   "hike_date": "2009-05-18",
   "description": "Leaving Port Shepstone",
   "end_coord_lat": -30.69385,
@@ -1117,7 +1117,7 @@
 }, {
   "km": "16.1",
   "day_number": "125",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/19\/hiking-day-125\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/19\/hiking-day-125.html",
   "hike_date": "2009-05-19",
   "description": "Lots of soft sand",
   "end_coord_lat": -30.581267,
@@ -1126,7 +1126,7 @@
 }, {
   "km": "17.1",
   "day_number": "126",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/20\/hiking-day-126\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/20\/hiking-day-126.html",
   "hike_date": "2009-05-20",
   "description": "Ifafa Beach",
   "end_coord_lat": -30.464683,
@@ -1135,7 +1135,7 @@
 }, {
   "km": "15.1",
   "day_number": "127",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/21\/hiking-day-127\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/21\/hiking-day-127.html",
   "hike_date": "2009-05-21",
   "description": "Kelso Beach",
   "end_coord_lat": -30.3536,
@@ -1144,7 +1144,7 @@
 }, {
   "km": "9.5",
   "day_number": "128",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/22\/hiking-day-128\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/22\/hiking-day-128.html",
   "hike_date": "2009-05-22",
   "description": "Scottburgh",
   "end_coord_lat": -30.280833,
@@ -1153,7 +1153,7 @@
 }, {
   "km": "0",
   "day_number": "129",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/23\/hiking-day-129\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/23\/hiking-day-129.html",
   "hike_date": "2009-05-23",
   "description": "Scottburgh Rest Day",
   "end_coord_lat": -30.280833,
@@ -1162,7 +1162,7 @@
 }, {
   "km": "20.1",
   "day_number": "130",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/24\/hiking-day-130\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/24\/hiking-day-130.html",
   "hike_date": "2009-05-24",
   "description": "Meeting the FRC Training Squad",
   "end_coord_lat": -30.122567,
@@ -1171,7 +1171,7 @@
 }, {
   "km": "10.2",
   "day_number": "131",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/25\/hiking-day-131\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/25\/hiking-day-131.html",
   "hike_date": "2009-05-25",
   "description": "Back onto hard sand at last!",
   "end_coord_lat": -30.049083,
@@ -1180,7 +1180,7 @@
 }, {
   "km": "18.7",
   "day_number": "132",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/26\/hiking-day-132\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/26\/hiking-day-132.html",
   "hike_date": "2009-05-26",
   "description": "Leaving Amanzimtoti",
   "end_coord_lat": -29.933883,
@@ -1189,7 +1189,7 @@
 }, {
   "km": "10.8",
   "day_number": "133",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/27\/hiking-day-133\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/27\/hiking-day-133.html",
   "hike_date": "2009-05-27",
   "description": "Navy Boats!",
   "end_coord_lat": -29.849917,
@@ -1198,7 +1198,7 @@
 }, {
   "km": "0",
   "day_number": "134",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/28\/hiking-day-134\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/28\/hiking-day-134.html",
   "hike_date": "2009-05-28",
   "description": "Rest day at Phakamisa",
   "end_coord_lat": -29.849917,
@@ -1207,7 +1207,7 @@
 }, {
   "km": "0",
   "day_number": "135",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/29\/hiking-day-135\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/29\/hiking-day-135.html",
   "hike_date": "2009-05-29",
   "description": "Speaking in Pinetown",
   "end_coord_lat": -29.849917,
@@ -1216,7 +1216,7 @@
 }, {
   "km": "0",
   "day_number": "136",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/30\/hiking-day-136\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/30\/hiking-day-136.html",
   "hike_date": "2009-05-30",
   "description": "Rest in Pinetown",
   "end_coord_lat": -29.849917,
@@ -1225,7 +1225,7 @@
 }, {
   "km": "0",
   "day_number": "137",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/31\/hiking-day-137\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/05\/31\/hiking-day-137.html",
   "hike_date": "2009-05-31",
   "description": "Rest in Pinetown",
   "end_coord_lat": -29.849917,
@@ -1234,7 +1234,7 @@
 }, {
   "km": "16.1",
   "day_number": "138",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/01\/hiking-day-138\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/01\/hiking-day-138.html",
   "hike_date": "2009-06-01",
   "description": "Supporters to Umhlanga",
   "end_coord_lat": -29.726767,
@@ -1243,7 +1243,7 @@
 }, {
   "km": "23.9",
   "day_number": "139",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/02\/hiking-day-139\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/02\/hiking-day-139.html",
   "hike_date": "2009-06-02",
   "description": "2000km's Reached!",
   "end_coord_lat": -29.545833,
@@ -1252,7 +1252,7 @@
 }, {
   "km": "11",
   "day_number": "140",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/03\/hiking-day-140\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/03\/hiking-day-140.html",
   "hike_date": "2009-06-03",
   "description": "Short soft sand to Sheffield",
   "end_coord_lat": -29.478383,
@@ -1261,7 +1261,7 @@
 }, {
   "km": "15.9",
   "day_number": "141",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/04\/hiking-day-141\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/04\/hiking-day-141.html",
   "hike_date": "2009-06-04",
   "description": "Crocodile Rivers",
   "end_coord_lat": -29.3709,
@@ -1270,7 +1270,7 @@
 }, {
   "km": "15.1",
   "day_number": "142",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/05\/hiking-day-142\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/05\/hiking-day-142.html",
   "hike_date": "2009-06-05",
   "description": "Zinkwaza River",
   "end_coord_lat": -29.277483,
@@ -1279,7 +1279,7 @@
 }, {
   "km": "8.5",
   "day_number": "143",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/06\/hiking-day-143\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/06\/hiking-day-143.html",
   "hike_date": "2009-06-06",
   "description": "Tugela Mouth",
   "end_coord_lat": -29.223833,
@@ -1288,7 +1288,7 @@
 }, {
   "km": "0",
   "day_number": "144",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/07\/hiking-day-144\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/07\/hiking-day-144.html",
   "hike_date": "2009-06-07",
   "description": "Tugela River Rest",
   "end_coord_lat": -29.223833,
@@ -1297,7 +1297,7 @@
 }, {
   "km": "19.8",
   "day_number": "145",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/08\/hiking-day-145\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/08\/hiking-day-145.html",
   "hike_date": "2009-06-08",
   "description": "Tugela Crossing",
   "end_coord_lat": -29.1131,
@@ -1306,7 +1306,7 @@
 }, {
   "km": "22.1",
   "day_number": "146",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/09\/hiking-day-146\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/09\/hiking-day-146.html",
   "hike_date": "2009-06-09",
   "description": "Twin Streams",
   "end_coord_lat": -28.983933,
@@ -1315,7 +1315,7 @@
 }, {
   "km": "9.5",
   "day_number": "147",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/10\/hiking-day-147\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/10\/hiking-day-147.html",
   "hike_date": "2009-06-10",
   "description": "Mtunzini",
   "end_coord_lat": -28.956067,
@@ -1324,7 +1324,7 @@
 }, {
   "km": "31.1",
   "day_number": "148",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/11\/hiking-day-148\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/11\/hiking-day-148.html",
   "hike_date": "2009-06-11",
   "description": "NSRI Boats",
   "end_coord_lat": -28.845124,
@@ -1333,7 +1333,7 @@
 }, {
   "km": "0",
   "day_number": "149",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/12\/hiking-day-149\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/12\/hiking-day-149.html",
   "hike_date": "2009-06-12",
   "description": "Rest in Richard's Bay",
   "end_coord_lat": -28.804481,
@@ -1342,7 +1342,7 @@
 }, {
   "km": "0",
   "day_number": "150",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/13\/hiking-day-150\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/13\/hiking-day-150.html",
   "hike_date": "2009-06-13",
   "description": "Rest at Richard's Bay",
   "end_coord_lat": -28.804481,
@@ -1351,7 +1351,7 @@
 }, {
   "km": "0",
   "day_number": "151",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/14\/hiking-day-151\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/14\/hiking-day-151.html",
   "hike_date": "2009-06-14",
   "description": "Rest in Richard's Bay",
   "end_coord_lat": -28.804481,
@@ -1360,7 +1360,7 @@
 }, {
   "km": "0",
   "day_number": "152",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/15\/hiking-day-152\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/15\/hiking-day-152.html",
   "hike_date": "2009-06-15",
   "description": "Rest in Richard's Bay",
   "end_coord_lat": -28.804481,
@@ -1369,7 +1369,7 @@
 }, {
   "km": "20.3",
   "day_number": "153",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/16\/hiking-day-153\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/16\/hiking-day-153.html",
   "hike_date": "2009-06-16",
   "description": "Back on the trail",
   "end_coord_lat": -28.676083,
@@ -1378,7 +1378,7 @@
 }, {
   "km": "11.1",
   "day_number": "154",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/17\/hiking-day-154\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/17\/hiking-day-154.html",
   "hike_date": "2009-06-17",
   "description": "Sandy Sandy Night",
   "end_coord_lat": -28.612383,
@@ -1387,7 +1387,7 @@
 }, {
   "km": "17.7",
   "day_number": "155",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/18\/hiking-day-155\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/18\/hiking-day-155.html",
   "hike_date": "2009-06-18",
   "description": "Straight and Narrow",
   "end_coord_lat": -28.503467,
@@ -1396,7 +1396,7 @@
 }, {
   "km": "18.1",
   "day_number": "156",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/19\/hiking-day-156\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/19\/hiking-day-156.html",
   "hike_date": "2009-06-19",
   "description": "World Heritage Site",
   "end_coord_lat": -28.372533,
@@ -1405,7 +1405,7 @@
 }, {
   "km": "13.7",
   "day_number": "157",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/20\/hiking-day-157\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/20\/hiking-day-157.html",
   "hike_date": "2009-06-20",
   "description": "Mission Rocks",
   "end_coord_lat": -28.278083,
@@ -1414,7 +1414,7 @@
 }, {
   "km": "19.7",
   "day_number": "158",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/21\/hiking-day-158\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/21\/hiking-day-158.html",
   "hike_date": "2009-06-21",
   "description": "Cape Vidal",
   "end_coord_lat": -28.125933,
@@ -1432,7 +1432,7 @@
 }, {
   "km": "34.2",
   "day_number": "160",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/23\/hiking-day-160\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/23\/hiking-day-160.html",
   "hike_date": "2009-06-23",
   "description": "Long walk day",
   "end_coord_lat": -27.820133,
@@ -1441,7 +1441,7 @@
 }, {
   "km": "31.4",
   "day_number": "161",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/24\/hiking-day-161\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/24\/hiking-day-161.html",
   "hike_date": "2009-06-24",
   "description": "Sodwana Bay",
   "end_coord_lat": -27.553667,
@@ -1450,7 +1450,7 @@
 }, {
   "km": "0",
   "day_number": "162",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/25\/hiking-day-162\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/25\/hiking-day-162.html",
   "hike_date": "2009-06-25",
   "description": "Rest at Sodwana",
   "end_coord_lat": -27.553667,
@@ -1459,7 +1459,7 @@
 }, {
   "km": "0",
   "day_number": "163",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/26\/hiking-day-163\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/26\/hiking-day-163.html",
   "hike_date": "2009-06-26",
   "description": "Rest at Sodwana",
   "end_coord_lat": -27.553667,
@@ -1468,7 +1468,7 @@
 }, {
   "km": "18.8",
   "day_number": "164",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/27\/hiking-day-164\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/27\/hiking-day-164.html",
   "hike_date": "2009-06-27",
   "description": "High Seas",
   "end_coord_lat": -27.4296,
@@ -1477,7 +1477,7 @@
 }, {
   "km": "13",
   "day_number": "165",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/28\/hiking-day-165\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/28\/hiking-day-165.html",
   "hike_date": "2009-06-28",
   "description": "Mabibi Campsite",
   "end_coord_lat": -27.330533,
@@ -1486,7 +1486,7 @@
 }, {
   "km": "25.6",
   "day_number": "166",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/29\/hiking-day-166\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/29\/hiking-day-166.html",
   "hike_date": "2009-06-29",
   "description": "Sand Blasting",
   "end_coord_lat": -27.13225,
@@ -1495,7 +1495,7 @@
 }, {
   "km": "16.1",
   "day_number": "167",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/30\/hiking-day-167\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/06\/30\/hiking-day-167.html",
   "hike_date": "2009-06-30",
   "description": "Fish Eagle Day",
   "end_coord_lat": -27.0114,
@@ -1504,7 +1504,7 @@
 }, {
   "km": "14.5",
   "day_number": "168",
-  "link": "http:\/\/www.cape2kosi.com\/2009\/07\/01\/hiking-day-168\/",
+  "link": "http:\/\/www.cape2kosi.com\/2009\/07\/01\/hiking-day-168.html",
   "hike_date": "2009-07-01",
   "description": "Kosi Bay",
   "end_coord_lat": -26.894233,
